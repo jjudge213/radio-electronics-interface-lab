@@ -90,12 +90,6 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/hackrf-portable-battery-2024-09-02-01.jpg" alt="hackrf portable battery 2024 09 02 01" width="48%"> <img src="../assets/hackrf-portable-battery-2024-09-02-02.jpg" alt="hackrf portable battery 2024 09 02 02" width="48%">
 
-## Faa Part 107 Study
-
-- Source: https://www.instagram.com/p/CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80/
-
-<img src="../assets/faa-part-107-study-2023-08-16-01.jpg" alt="faa part 107 study 2023 08 16 01" width="48%">
-
 ## Led Skeleton Display
 
 - Source: https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/

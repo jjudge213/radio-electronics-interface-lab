@@ -20,7 +20,6 @@ This manifest was rebuilt from `blocked-unblocked-posts.csv` using only rows mar
 | 2024-09-13 | Connector Parts | https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/ | connector-parts-2024-09-13-01.jpg<br>connector-parts-2024-09-13-02.jpg<br>connector-parts-2024-09-13-03.jpg<br>connector-parts-2024-09-13-04.jpg |
 | 2024-09-03 | Blue Mat Bench Wiring | https://www.instagram.com/p/C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0/ | blue-mat-bench-wiring-2024-09-03-01.jpg |
 | 2024-09-02 | Hackrf Portable Battery | https://www.instagram.com/p/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/ | hackrf-portable-battery-2024-09-02-01.jpg<br>hackrf-portable-battery-2024-09-02-02.jpg |
-| 2023-08-16 | Faa Part 107 Study | https://www.instagram.com/p/CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80/ | faa-part-107-study-2023-08-16-01.jpg |
 | 2018-03-21 | Led Skeleton Display | https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/ | led-skeleton-display-2018-03-21-01.jpg<br>led-skeleton-display-2018-03-21-02.jpg<br>led-skeleton-display-2018-03-21-03.jpg |
 
 ## Exclusion Rule
