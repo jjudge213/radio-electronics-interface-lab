@@ -1,39 +1,28 @@
-# Evidence Manifest: Radio Electronics Interface Lab
+# Evidence Manifest
 
-| Date | Topic | Asset | Evidence note |
+Repo: `radio-electronics-interface-lab`
+
+This manifest was rebuilt from `blocked-unblocked-posts.csv` using only rows marked `unblocked_active` for this repository.
+
+## Active Evidence
+
+| Date | Evidence | Instagram URL | Assets |
 |---|---|---|---|
-| 2024-09-13 | Cables / Connectors / Interfaces | `connector-parts-2024-09-13-01.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-13 | Cables / Connectors / Interfaces | `connector-parts-2024-09-13-02.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-13 | Cables / Connectors / Interfaces | `connector-parts-2024-09-13-03.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-13 | Cables / Connectors / Interfaces | `connector-parts-2024-09-13-04.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-14 | Cables / Connectors / Interfaces | `connector-soldering-2024-09-14-01.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-14 | Cables / Connectors / Interfaces | `connector-soldering-2024-09-14-02.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-14 | Cables / Connectors / Interfaces | `connector-soldering-2024-09-14-03.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-14 | Cables / Connectors / Interfaces | `connector-soldering-2024-09-14-04.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-14 | Cables / Connectors / Interfaces | `connector-soldering-2024-09-14-05.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-24 | Cables / Connectors / Interfaces | `connector-closeup-2024-09-24-01.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-24 | Cables / Connectors / Interfaces | `connector-closeup-2024-09-24-02.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-24 | Cables / Connectors / Interfaces | `connector-closeup-2024-09-24-03.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-24 | Cables / Connectors / Interfaces | `connector-closeup-2024-09-24-04.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2024-09-24 | Cables / Connectors / Interfaces | `connector-closeup-2024-09-24-05.jpg` | Physical interface work: sourcing, soldering, inspection, and closeups. |
-| 2025-06-16 | SDR / RF / Aviation Signals | `aviation-tracking-2025-06-16-01.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2023-08-16 | SDR / RF / Aviation Signals | `faa-part-107-study-2023-08-16-01.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2024-09-02 | SDR / RF / Aviation Signals | `hackrf-portable-battery-2024-09-02-01.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2024-09-02 | SDR / RF / Aviation Signals | `hackrf-portable-battery-2024-09-02-02.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2024-09-14 | SDR / RF / Aviation Signals | `hackrf-sweep-mavic-air-2-2024-09-14-01.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2024-09-14 | SDR / RF / Aviation Signals | `hackrf-sweep-mavic-air-2-2024-09-14-02.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2024-09-15 | SDR / RF / Aviation Signals | `mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg` | RF/spectrum and aviation-tracking support evidence. |
-| 2022-10-16 | Embedded Electronics / PCB Inspection | `arduino-breadboard-electronics-notes-2022-10-16-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-10-16 | Embedded Electronics / PCB Inspection | `arduino-breadboard-electronics-notes-2022-10-16-02.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2024-09-03 | Embedded Electronics / PCB Inspection | `blue-mat-bench-wiring-2024-09-03-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2024-04-07 | Embedded Electronics / PCB Inspection | `handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2018-03-21 | Embedded Electronics / PCB Inspection | `led-skeleton-display-2018-03-21-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2018-03-21 | Embedded Electronics / PCB Inspection | `led-skeleton-display-2018-03-21-02.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2018-03-21 | Embedded Electronics / PCB Inspection | `led-skeleton-display-2018-03-21-03.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-10-30 | Embedded Electronics / PCB Inspection | `microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-10-30 | Embedded Electronics / PCB Inspection | `microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-01-22 | Embedded Electronics / PCB Inspection | `phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-01.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-01-22 | Embedded Electronics / PCB Inspection | `phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-02.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-01-22 | Embedded Electronics / PCB Inspection | `phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-01-22 | Embedded Electronics / PCB Inspection | `phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
-| 2022-01-22 | Embedded Electronics / PCB Inspection | `phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg` | Bench electronics, PCB inspection, teardown, and wiring support evidence. |
+|  | Microscope Pcb Electronics Inspection Setup | https://www.instagram.com/p/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/ | microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg<br>microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg |
+|  | Arduino Breadboard Electronics Notes | https://www.instagram.com/p/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/ | arduino-breadboard-electronics-notes-2022-10-16-01.jpg<br>arduino-breadboard-electronics-notes-2022-10-16-02.jpg |
+|  | Phone Pcb Teardown And Power Wiring Sequence | https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/ | phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-01.jpg<br>phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-02.jpg<br>phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg<br>phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg<br>phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg |
+|  | Handheld Radio Scanner Security Device On Table | https://www.instagram.com/p/C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0/ | handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg |
+| 2025-06-16 | Aviation Tracking | https://www.instagram.com/p/DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0/ | aviation-tracking-2025-06-16-01.jpg |
+| 2024-09-24 | Connector Closeup | https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/ | connector-closeup-2024-09-24-01.jpg<br>connector-closeup-2024-09-24-02.jpg<br>connector-closeup-2024-09-24-03.jpg<br>connector-closeup-2024-09-24-04.jpg<br>connector-closeup-2024-09-24-05.gif |
+| 2024-09-15 | Mavic Air 2 5Ghz Spectrum | https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/ | mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg |
+| 2024-09-14 | Hackrf Sweep Mavic Air 2 | https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/ | hackrf-sweep-mavic-air-2-2024-09-14-01.jpg<br>hackrf-sweep-mavic-air-2-2024-09-14-02.jpg |
+| 2024-09-14 | Connector Soldering | https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/ | connector-soldering-2024-09-14-01.jpg<br>connector-soldering-2024-09-14-02.jpg<br>connector-soldering-2024-09-14-03.jpg<br>connector-soldering-2024-09-14-04.jpg<br>connector-soldering-2024-09-14-05.jpg |
+| 2024-09-13 | Connector Parts | https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/ | connector-parts-2024-09-13-01.jpg<br>connector-parts-2024-09-13-02.jpg<br>connector-parts-2024-09-13-03.jpg<br>connector-parts-2024-09-13-04.jpg |
+| 2024-09-03 | Blue Mat Bench Wiring | https://www.instagram.com/p/C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0/ | blue-mat-bench-wiring-2024-09-03-01.jpg |
+| 2024-09-02 | Hackrf Portable Battery | https://www.instagram.com/p/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/ | hackrf-portable-battery-2024-09-02-01.jpg<br>hackrf-portable-battery-2024-09-02-02.jpg |
+| 2023-08-16 | Faa Part 107 Study | https://www.instagram.com/p/CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80/ | faa-part-107-study-2023-08-16-01.jpg |
+| 2018-03-21 | Led Skeleton Display | https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/ | led-skeleton-display-2018-03-21-01.jpg<br>led-skeleton-display-2018-03-21-02.jpg<br>led-skeleton-display-2018-03-21-03.jpg |
+
+## Exclusion Rule
+
+Blocked, removed, quarantined, or user-rejected posts are intentionally absent from this repo even if they exist in the local Instagram source archive.

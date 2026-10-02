@@ -1,317 +1,393 @@
-[
-  {
-    "filename": "connector-parts-2024-09-13-01.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-13",
-    "kind": "jpg_still",
-    "bytes": 196126,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-parts-2024-09-13-02.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-13",
-    "kind": "jpg_still",
-    "bytes": 141337,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-parts-2024-09-13-03.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-13",
-    "kind": "jpg_still",
-    "bytes": 129734,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-parts-2024-09-13-04.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-13",
-    "kind": "jpg_still",
-    "bytes": 115708,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-soldering-2024-09-14-01.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 144010,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-soldering-2024-09-14-02.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 136910,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-soldering-2024-09-14-03.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 149143,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-soldering-2024-09-14-04.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 99045,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-soldering-2024-09-14-05.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 253943,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-closeup-2024-09-24-01.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-24",
-    "kind": "jpg_still",
-    "bytes": 79027,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-closeup-2024-09-24-02.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-24",
-    "kind": "jpg_still",
-    "bytes": 89415,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-closeup-2024-09-24-03.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-24",
-    "kind": "jpg_still",
-    "bytes": 92911,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-closeup-2024-09-24-04.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-24",
-    "kind": "jpg_still",
-    "bytes": 131578,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "connector-closeup-2024-09-24-05.jpg",
-    "source_repo": "tactical-radio-systems-lab",
-    "topic": "Cables / Connectors / Interfaces",
-    "date": "2024-09-24",
-    "kind": "jpg_still",
-    "bytes": 131578,
-    "note": "Physical interface work: sourcing, soldering, inspection, and closeups."
-  },
-  {
-    "filename": "aviation-tracking-2025-06-16-01.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2025-06-16",
-    "kind": "jpg_still",
-    "bytes": 239109,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "faa-part-107-study-2023-08-16-01.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2023-08-16",
-    "kind": "jpg_still",
-    "bytes": 281203,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "hackrf-portable-battery-2024-09-02-01.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2024-09-02",
-    "kind": "jpg_still",
-    "bytes": 165050,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "hackrf-portable-battery-2024-09-02-02.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2024-09-02",
-    "kind": "jpg_still",
-    "bytes": 146914,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "hackrf-sweep-mavic-air-2-2024-09-14-01.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 924861,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "hackrf-sweep-mavic-air-2-2024-09-14-02.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2024-09-14",
-    "kind": "jpg_still",
-    "bytes": 845584,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg",
-    "source_repo": "rf-sdr-test-lab",
-    "topic": "SDR / RF / Aviation Signals",
-    "date": "2024-09-15",
-    "kind": "jpg_still",
-    "bytes": 910206,
-    "note": "RF/spectrum and aviation-tracking support evidence."
-  },
-  {
-    "filename": "arduino-breadboard-electronics-notes-2022-10-16-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-10-16",
-    "kind": "jpg_still",
-    "bytes": 323294,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "arduino-breadboard-electronics-notes-2022-10-16-02.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-10-16",
-    "kind": "jpg_still",
-    "bytes": 273673,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "blue-mat-bench-wiring-2024-09-03-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2024-09-03",
-    "kind": "jpg_still",
-    "bytes": 185473,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2024-04-07",
-    "kind": "jpg_still",
-    "bytes": 293038,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "led-skeleton-display-2018-03-21-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2018-03-21",
-    "kind": "jpg_still",
-    "bytes": 78158,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "led-skeleton-display-2018-03-21-02.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2018-03-21",
-    "kind": "jpg_still",
-    "bytes": 83102,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "led-skeleton-display-2018-03-21-03.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2018-03-21",
-    "kind": "jpg_still",
-    "bytes": 80987,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-10-30",
-    "kind": "jpg_still",
-    "bytes": 391249,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-10-30",
-    "kind": "jpg_still",
-    "bytes": 354931,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-01.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-01-22",
-    "kind": "jpg_still",
-    "bytes": 87993,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-02.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-01-22",
-    "kind": "jpg_still",
-    "bytes": 223244,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-01-22",
-    "kind": "jpg_still",
-    "bytes": 201538,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-01-22",
-    "kind": "jpg_still",
-    "bytes": 214547,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  },
-  {
-    "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg",
-    "source_repo": "embedded-electronics-integration",
-    "topic": "Embedded Electronics / PCB Inspection",
-    "date": "2022-01-22",
-    "kind": "jpg_still",
-    "bytes": 245431,
-    "note": "Bench electronics, PCB inspection, teardown, and wiring support evidence."
-  }
-]
+{
+  "rebuilt_at": "2026-10-02T11:18:43.678796+00:00",
+  "source": "portfolio/instagram-full-profile-sweep-20261001/blocked-unblocked-posts.csv",
+  "repo": "radio-electronics-interface-lab",
+  "media": [
+    {
+      "file": "assets/microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg",
+      "filename": "microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/",
+      "shortcode": "CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-10-30_CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0-01-image.webp",
+      "bytes": 390775,
+      "sha256": "6eac8fb4bb54f3f95e410fcb5d9e403e36fd035f96a26a10de8572af56530233"
+    },
+    {
+      "file": "assets/microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg",
+      "filename": "microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/",
+      "shortcode": "CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-10-30_CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0-02-image.webp",
+      "bytes": 354457,
+      "sha256": "8bf1edc3d9f1c99ed79fb177d6e955b17a2702cbdf66bfb1e94810f5ac0888e4"
+    },
+    {
+      "file": "assets/arduino-breadboard-electronics-notes-2022-10-16-01.jpg",
+      "filename": "arduino-breadboard-electronics-notes-2022-10-16-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/",
+      "shortcode": "Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-10-16_Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0-01-image.webp",
+      "bytes": 322820,
+      "sha256": "6242983fbb8f754b5d43ffd3b345085ed8a4f199b49894b402b0bcea96c5490f"
+    },
+    {
+      "file": "assets/arduino-breadboard-electronics-notes-2022-10-16-02.jpg",
+      "filename": "arduino-breadboard-electronics-notes-2022-10-16-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/",
+      "shortcode": "Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-10-16_Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0-02-image.webp",
+      "bytes": 273199,
+      "sha256": "43cbf53060da85073be2cb2dc4bd7e44ae3cd6310acad20f6c338565e2c9130b"
+    },
+    {
+      "file": "assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-01.jpg",
+      "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/",
+      "shortcode": "CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-01-22_CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0-01-image.webp",
+      "bytes": 87519,
+      "sha256": "a76eb0232cc3bc5ed6e9f09179c5609eaf8fe006b592d82d2ce27e23f4a7e441"
+    },
+    {
+      "file": "assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-02.jpg",
+      "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/",
+      "shortcode": "CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-01-22_CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0-02-image.webp",
+      "bytes": 222770,
+      "sha256": "57bb3da5d0f1c6d90630c4a0b75b3f73c28d13be6b816bdbef6d6f7c32cdfc41"
+    },
+    {
+      "file": "assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg",
+      "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg",
+      "instagram_url": "https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/",
+      "shortcode": "CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0",
+      "media_index": 3,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-01-22_CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0-03-image.webp",
+      "bytes": 201064,
+      "sha256": "d4c788f2dc143e21452cf0c08f641be9341b8047a735b195528c69c2db10b46d"
+    },
+    {
+      "file": "assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg",
+      "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg",
+      "instagram_url": "https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/",
+      "shortcode": "CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0",
+      "media_index": 4,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-01-22_CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0-04-image.webp",
+      "bytes": 214073,
+      "sha256": "b117fcd858da805b4c0c897137a71b04cbb005c0b7823417dfe08810f10166a1"
+    },
+    {
+      "file": "assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg",
+      "filename": "phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg",
+      "instagram_url": "https://www.instagram.com/p/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/",
+      "shortcode": "CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0",
+      "media_index": 5,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2022-01-22_CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0/CZC5vLyO0VKby-R1Gga57PyoC7-j8w_9O3rW9s0-05-image.webp",
+      "bytes": 244957,
+      "sha256": "73b9eccaf61ac996be9adf5c96054b92ba9bb58cb7eb45df2d7cdf672ffd51fa"
+    },
+    {
+      "file": "assets/handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg",
+      "filename": "handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0/",
+      "shortcode": "C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-04-07_C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0/C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0-01-image.jpg",
+      "bytes": 350669,
+      "sha256": "8f893db7fc2ad19369fc63ce95838c897e87e51fd0666746094e5617b91a6b5d"
+    },
+    {
+      "file": "assets/aviation-tracking-2025-06-16-01.jpg",
+      "filename": "aviation-tracking-2025-06-16-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0/",
+      "shortcode": "DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2025-06-16_DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0/DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0-01-image.webp",
+      "bytes": 174064,
+      "sha256": "3453e52b0ba5dc7d1ae402e33c3827bccc368e3b3190de4af3efd2894e064284"
+    },
+    {
+      "file": "assets/connector-closeup-2024-09-24-01.jpg",
+      "filename": "connector-closeup-2024-09-24-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/",
+      "shortcode": "DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-24_DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40-01-image.jpg",
+      "bytes": 93349,
+      "sha256": "5b6b45e4f7f32360520690865ddd96c48cbea7912ac8d352ba9368616d2c7aa6"
+    },
+    {
+      "file": "assets/connector-closeup-2024-09-24-02.jpg",
+      "filename": "connector-closeup-2024-09-24-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/",
+      "shortcode": "DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-24_DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40-02-image.jpg",
+      "bytes": 107109,
+      "sha256": "ac67d02345be1d78f847a07baed6ba1a449a1932074dfebaa4a51cdde7da7488"
+    },
+    {
+      "file": "assets/connector-closeup-2024-09-24-03.jpg",
+      "filename": "connector-closeup-2024-09-24-03.jpg",
+      "instagram_url": "https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/",
+      "shortcode": "DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40",
+      "media_index": 3,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-24_DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40-03-image.jpg",
+      "bytes": 115325,
+      "sha256": "347c6a585852cdcde551456d47e7239098c2936d5f0b12bf10c78af03fe7d371"
+    },
+    {
+      "file": "assets/connector-closeup-2024-09-24-04.jpg",
+      "filename": "connector-closeup-2024-09-24-04.jpg",
+      "instagram_url": "https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/",
+      "shortcode": "DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40",
+      "media_index": 4,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-24_DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40-04-image.jpg",
+      "bytes": 147481,
+      "sha256": "3781276296db12079487dc7eef0692a9ecf77e66dafae6f552f205348495543f"
+    },
+    {
+      "file": "assets/connector-closeup-2024-09-24-05.gif",
+      "filename": "connector-closeup-2024-09-24-05.gif",
+      "instagram_url": "https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/",
+      "shortcode": "DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40",
+      "media_index": 5,
+      "kind": "video_gif",
+      "source_archive_path": "gifs/2024-09-24_DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40-05-video.gif",
+      "bytes": 11613381,
+      "sha256": "e0388ee44dfdafdcda62dbe964583125822e58ae314677291ccc0bd571be3bce",
+      "frames": 50
+    },
+    {
+      "file": "assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg",
+      "filename": "mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/",
+      "shortcode": "C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-15_C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0-01-image.webp",
+      "bytes": 888039,
+      "sha256": "f8a8725d69a5881737b254438639fa32cab1cf9d8d28c8d307eebf0d184c80c8"
+    },
+    {
+      "file": "assets/hackrf-sweep-mavic-air-2-2024-09-14-01.jpg",
+      "filename": "hackrf-sweep-mavic-air-2-2024-09-14-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/",
+      "shortcode": "C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0-01-image.webp",
+      "bytes": 901950,
+      "sha256": "45a88e1df9736a25f892e0a2c35e91f6820aca211f14630413e29a4ff230ea65"
+    },
+    {
+      "file": "assets/hackrf-sweep-mavic-air-2-2024-09-14-02.jpg",
+      "filename": "hackrf-sweep-mavic-air-2-2024-09-14-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/",
+      "shortcode": "C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0-02-image.webp",
+      "bytes": 844371,
+      "sha256": "e61654e35d105eacfea2f935796aecec0363006cc7d3f469bc480c66dea7a13e"
+    },
+    {
+      "file": "assets/connector-soldering-2024-09-14-01.jpg",
+      "filename": "connector-soldering-2024-09-14-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/",
+      "shortcode": "C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40-01-image.jpg",
+      "bytes": 155850,
+      "sha256": "aea3001d0c3a239042e4669f815cb65da29f6a5e311b509da37b35ae78aee553"
+    },
+    {
+      "file": "assets/connector-soldering-2024-09-14-02.jpg",
+      "filename": "connector-soldering-2024-09-14-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/",
+      "shortcode": "C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40-02-image.jpg",
+      "bytes": 155087,
+      "sha256": "8e108281d9846f7df08076b31fcb35fdf74e62f13ca878b39c33ffdfe25095c9"
+    },
+    {
+      "file": "assets/connector-soldering-2024-09-14-03.jpg",
+      "filename": "connector-soldering-2024-09-14-03.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/",
+      "shortcode": "C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40",
+      "media_index": 3,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40-03-image.jpg",
+      "bytes": 174173,
+      "sha256": "ca4ef4895c1284381fa2038b7ad532448d20343f9b1a6d46cfced5e23c206c41"
+    },
+    {
+      "file": "assets/connector-soldering-2024-09-14-04.jpg",
+      "filename": "connector-soldering-2024-09-14-04.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/",
+      "shortcode": "C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40",
+      "media_index": 4,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40-04-image.jpg",
+      "bytes": 122362,
+      "sha256": "71190a22456f4e371c3f890e949c71a2cc51024a76ef19718756162278bd8a6b"
+    },
+    {
+      "file": "assets/connector-soldering-2024-09-14-05.jpg",
+      "filename": "connector-soldering-2024-09-14-05.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/",
+      "shortcode": "C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40",
+      "media_index": 5,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-14_C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40-05-image.jpg",
+      "bytes": 282205,
+      "sha256": "98745ce78d4d74905948e1652e8cdb3656576a73bf6d8cc99d096fc81d9963c2"
+    },
+    {
+      "file": "assets/connector-parts-2024-09-13-01.jpg",
+      "filename": "connector-parts-2024-09-13-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/",
+      "shortcode": "C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-13_C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0-01-image.jpg",
+      "bytes": 229118,
+      "sha256": "7ca32addf22d8a9d6e4ee42ddb0c796d8a3676491a652d528e8b7a84dc97302a"
+    },
+    {
+      "file": "assets/connector-parts-2024-09-13-02.jpg",
+      "filename": "connector-parts-2024-09-13-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/",
+      "shortcode": "C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-13_C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0-02-image.jpg",
+      "bytes": 152430,
+      "sha256": "6e1cc9bade3c75a16a4758411b4f2d1c807d49421c879d24c64282121f1a7778"
+    },
+    {
+      "file": "assets/connector-parts-2024-09-13-03.jpg",
+      "filename": "connector-parts-2024-09-13-03.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/",
+      "shortcode": "C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0",
+      "media_index": 3,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-13_C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0-03-image.jpg",
+      "bytes": 161917,
+      "sha256": "d2d4f5612a0a79696300cecd5c8b9afee15e8e7462b00c26791fefab47bf919c"
+    },
+    {
+      "file": "assets/connector-parts-2024-09-13-04.jpg",
+      "filename": "connector-parts-2024-09-13-04.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/",
+      "shortcode": "C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0",
+      "media_index": 4,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-13_C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0-04-image.jpg",
+      "bytes": 141538,
+      "sha256": "14a02ffaa322928fe7d45bc37dabedbad29bfa8d22ae2cf3a7b6dec438aaf4aa"
+    },
+    {
+      "file": "assets/blue-mat-bench-wiring-2024-09-03-01.jpg",
+      "filename": "blue-mat-bench-wiring-2024-09-03-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0/",
+      "shortcode": "C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-03_C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0/C_dEuDrxlkEhW_EKtLYQjAdseX8jBeuq47UwZI0-01-image.jpg",
+      "bytes": 203892,
+      "sha256": "ce79b7752f450d48324ae25594d05eca410debfc2ea697ebb3d17e1d9e0690ef"
+    },
+    {
+      "file": "assets/hackrf-portable-battery-2024-09-02-01.jpg",
+      "filename": "hackrf-portable-battery-2024-09-02-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/",
+      "shortcode": "C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-02_C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0-01-image.jpg",
+      "bytes": 184573,
+      "sha256": "f9663d57103f710179e6e4e9765bace51d1e1658ae3c14475a8db908afb554eb"
+    },
+    {
+      "file": "assets/hackrf-portable-battery-2024-09-02-02.jpg",
+      "filename": "hackrf-portable-battery-2024-09-02-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/",
+      "shortcode": "C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2024-09-02_C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0-02-image.jpg",
+      "bytes": 163467,
+      "sha256": "0808274369891b2fd7ae14f0a09448ea7c47cb91a64b470b64a0c562c573e422"
+    },
+    {
+      "file": "assets/faa-part-107-study-2023-08-16-01.jpg",
+      "filename": "faa-part-107-study-2023-08-16-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80/",
+      "shortcode": "CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2023-08-16_CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80/CwAZ-Qerqbgl5DXZH7l4-IuZuFe0qLTJ1_eBC80-01-image.webp",
+      "bytes": 226375,
+      "sha256": "11538e9b85769eedf7b7b36db767c5473eabe122f107c42d4e5fc079e7ae3f42"
+    },
+    {
+      "file": "assets/led-skeleton-display-2018-03-21-01.jpg",
+      "filename": "led-skeleton-display-2018-03-21-01.jpg",
+      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
+      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
+      "media_index": 1,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-01-image.jpg",
+      "bytes": 105460,
+      "sha256": "fc939af596adda555f7c8a91f54d66417e6eecbb9934c912b1e429c18f36d085"
+    },
+    {
+      "file": "assets/led-skeleton-display-2018-03-21-02.jpg",
+      "filename": "led-skeleton-display-2018-03-21-02.jpg",
+      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
+      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
+      "media_index": 2,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-02-image.jpg",
+      "bytes": 112831,
+      "sha256": "b9df58d64914d8e322a463068de5e52208405bf7119c69560555e37f29985e20"
+    },
+    {
+      "file": "assets/led-skeleton-display-2018-03-21-03.jpg",
+      "filename": "led-skeleton-display-2018-03-21-03.jpg",
+      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
+      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
+      "media_index": 3,
+      "kind": "image_jpg",
+      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-03-image.jpg",
+      "bytes": 110487,
+      "sha256": "0ab6087b50e96b5001dffbd3ee4f8852d88389a74b29947a69ab06ddac7eaac9"
+    }
+  ]
+}
