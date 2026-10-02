@@ -89,11 +89,3 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 - Source: https://www.instagram.com/p/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/
 
 <img src="../assets/hackrf-portable-battery-2024-09-02-01.jpg" alt="hackrf portable battery 2024 09 02 01" width="48%"> <img src="../assets/hackrf-portable-battery-2024-09-02-02.jpg" alt="hackrf portable battery 2024 09 02 02" width="48%">
-
-## Led Skeleton Display
-
-- Source: https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/
-
-<img src="../assets/led-skeleton-display-2018-03-21-01.jpg" alt="led skeleton display 2018 03 21 01" width="48%"> <img src="../assets/led-skeleton-display-2018-03-21-02.jpg" alt="led skeleton display 2018 03 21 02" width="48%">
-
-<img src="../assets/led-skeleton-display-2018-03-21-03.jpg" alt="led skeleton display 2018 03 21 03" width="48%">

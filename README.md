@@ -22,9 +22,9 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 35
-- JPG stills: 35
-- Animated GIFs: 0
+- Active media assets: 31
+- JPG stills: 30
+- Animated GIFs: 1
 - Source posture: private review assets only; publication requires redaction and fit review.
 
 ## Review Docs

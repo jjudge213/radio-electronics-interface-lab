@@ -344,39 +344,6 @@
       "source_archive_path": "media/2024-09-02_C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0/C_bbzvSRpgtP4hJrwx5hFqzvY9kMVcZaG26nsk0-02-image.jpg",
       "bytes": 163467,
       "sha256": "0808274369891b2fd7ae14f0a09448ea7c47cb91a64b470b64a0c562c573e422"
-    },
-    {
-      "file": "assets/led-skeleton-display-2018-03-21-01.jpg",
-      "filename": "led-skeleton-display-2018-03-21-01.jpg",
-      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
-      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
-      "media_index": 1,
-      "kind": "image_jpg",
-      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-01-image.jpg",
-      "bytes": 105460,
-      "sha256": "fc939af596adda555f7c8a91f54d66417e6eecbb9934c912b1e429c18f36d085"
-    },
-    {
-      "file": "assets/led-skeleton-display-2018-03-21-02.jpg",
-      "filename": "led-skeleton-display-2018-03-21-02.jpg",
-      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
-      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
-      "media_index": 2,
-      "kind": "image_jpg",
-      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-02-image.jpg",
-      "bytes": 112831,
-      "sha256": "b9df58d64914d8e322a463068de5e52208405bf7119c69560555e37f29985e20"
-    },
-    {
-      "file": "assets/led-skeleton-display-2018-03-21-03.jpg",
-      "filename": "led-skeleton-display-2018-03-21-03.jpg",
-      "instagram_url": "https://www.instagram.com/p/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/",
-      "shortcode": "Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0",
-      "media_index": 3,
-      "kind": "image_jpg",
-      "source_archive_path": "media/2018-03-21_Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0/Bgmjigxg0e4J_-hhKLyPI6nufvYpNU7eUnVZmw0-03-image.jpg",
-      "bytes": 110487,
-      "sha256": "0ab6087b50e96b5001dffbd3ee4f8852d88389a74b29947a69ab06ddac7eaac9"
     }
   ]
 }
