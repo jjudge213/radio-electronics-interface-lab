@@ -26,6 +26,14 @@ Selected still evidence below adds custom connector, cable, and radio data-inter
 
 <img src="assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="Mobile radio data cable interface evidence, 2024-09-15" width="48%">
 
+### UHF Manpack Development
+
+Selected still evidence below documents a UHF manpack development path: a plastic 3D-printed frame, side support geometry, and a panel concept for antenna mounting and power-switch access.
+
+<img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-01.jpg" alt="UHF manpack 3D-printed frame, 2024-10-03" width="48%"> <img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-02.jpg" alt="UHF manpack 3D-printed frame alternate angle, 2024-10-03" width="48%">
+
+<img src="assets/uhf-manpack-antenna-power-panel-2024-10-03-01.jpg" alt="UHF manpack antenna and power-switch panel concept, 2024-10-03" width="48%"> <img src="assets/uhf-manpack-antenna-power-panel-2024-10-03-02.jpg" alt="UHF manpack panel and frame detail, 2024-10-03" width="48%">
+
 ### RF and SDR
 
 HackRF/spectrum and aviation-tracking evidence provide RF context without overclaiming formal test-lab coverage.
@@ -36,8 +44,8 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 39
-- JPG stills: 37
+- Active media assets: 43
+- JPG stills: 41
 - Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 

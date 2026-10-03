@@ -68,6 +68,16 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="mobile radio data cable interface 2024 09 15" width="48%">
 
+## UHF Manpack Development
+
+- Source: local Telegram ChatExport photo review, selected by Josh for repo incorporation.
+- Notes: plastic 3D-printed frame with panel concept for antenna mounting and power-switch access.
+- Redaction note: private review only until labels, serials, and surrounding workspace details are checked.
+
+<img src="../assets/uhf-manpack-3d-printed-frame-2024-10-03-01.jpg" alt="uhf manpack 3d printed frame 2024 10 03 01" width="48%"> <img src="../assets/uhf-manpack-3d-printed-frame-2024-10-03-02.jpg" alt="uhf manpack 3d printed frame 2024 10 03 02" width="48%">
+
+<img src="../assets/uhf-manpack-antenna-power-panel-2024-10-03-01.jpg" alt="uhf manpack antenna power panel 2024 10 03 01" width="48%"> <img src="../assets/uhf-manpack-antenna-power-panel-2024-10-03-02.jpg" alt="uhf manpack antenna power panel 2024 10 03 02" width="48%">
+
 ## Mavic Air 2 5Ghz Spectrum
 
 - Source: https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/
