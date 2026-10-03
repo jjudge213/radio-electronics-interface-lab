@@ -16,13 +16,29 @@ Selected vehicle-radio interface video evidence adds motion context for cable ro
 
 <img src="assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="Vehicle radio interface cabling workflow evidence, 2025-05-15" width="48%">
 
-Selected still evidence below adds custom connector and keyfill/interface cable context.
+#### Motorola XTS Cable Modifications
+
+This evidence documents modification of a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while maintaining serial cable functionality.
+
+<img src="assets/connector-closeup-2024-09-24-01.jpg" alt="Motorola XTS cable modification connector closeup, 2024-09-24" width="48%"> <img src="assets/connector-closeup-2024-09-24-02.jpg" alt="Motorola XTS cable modification connector closeup alternate angle, 2024-09-24" width="48%">
+
+<img src="assets/connector-closeup-2024-09-24-03.jpg" alt="Motorola XTS cable modification wiring detail, 2024-09-24" width="48%"> <img src="assets/connector-closeup-2024-09-24-04.jpg" alt="Motorola XTS cable modification assembly detail, 2024-09-24" width="48%">
+
+<img src="assets/connector-closeup-2024-09-24-05.gif" alt="Motorola XTS cable modification video detail, 2024-09-24" width="48%">
+
+<img src="assets/connector-soldering-2024-09-14-01.jpg" alt="Motorola XTS cable modification soldering, 2024-09-14" width="48%"> <img src="assets/connector-soldering-2024-09-14-02.jpg" alt="Motorola XTS cable modification soldering alternate angle, 2024-09-14" width="48%">
+
+<img src="assets/connector-soldering-2024-09-14-03.jpg" alt="Motorola XTS cable modification wire preparation, 2024-09-14" width="48%"> <img src="assets/connector-soldering-2024-09-14-04.jpg" alt="Motorola XTS cable modification connector assembly, 2024-09-14" width="48%">
+
+<img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="48%">
+
+#### EFJohnson 5300 Keyfill Cable
+
+This custom keyfill cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The pinout was derived from the EFJohnson 5300 service manual.
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
-<img src="assets/connector-closeup-2024-09-24-05.gif" alt="Connector closeup video from the keyfill/interface cable post, 2024-09-24" width="48%">
-
-<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="Custom radio keyfill/interface cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="Custom radio keyfill/interface cable completed lead, 2024-09-24" width="48%">
+<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom keyfill cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom keyfill cable completed lead, 2024-09-24" width="48%">
 
 ### UHF Manpack Development
 

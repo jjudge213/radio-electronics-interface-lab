@@ -38,9 +38,10 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/aviation-tracking-2025-06-16-01.jpg" alt="aviation tracking 2025 06 16 01" width="48%">
 
-## Connector Closeup
+## Motorola XTS Cable Modifications
 
 - Source: https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/
+- Notes: modified Motorola XTS serial cable exposing microphone, speaker, and PTT lines while maintaining serial cable functionality.
 
 <img src="../assets/connector-closeup-2024-09-24-01.jpg" alt="connector closeup 2024 09 24 01" width="48%"> <img src="../assets/connector-closeup-2024-09-24-02.jpg" alt="connector closeup 2024 09 24 02" width="48%">
 
@@ -55,14 +56,13 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="vehicle radio interface cabling workflow 2025 05 15" width="48%">
 
-## Custom Radio Connector And Keyfill Interface Selected Photos
+## EFJohnson 5300 Keyfill Cable
 
 - Source: local Telegram ChatExport photo review, selected by Josh for repo incorporation.
+- Notes: custom keyfill cable for EFJohnson 5300 series radio, made from a handmic connector sourced from DigiKey. Pinout derived from the EFJohnson 5300 service manual.
 - Redaction note: private review only until labels, display details, and surrounding radio context are checked.
 
 <img src="../assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="custom radio connector closeup 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="custom radio connector closeup 2024 09 24 02" width="48%">
-
-<img src="../assets/connector-closeup-2024-09-24-05.gif" alt="connector closeup video from keyfill interface post 2024 09 24" width="48%">
 
 <img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio keyfill interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio keyfill interface cable 2024 09 24 02" width="48%">
 
