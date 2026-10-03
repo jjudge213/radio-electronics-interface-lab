@@ -40,21 +40,14 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 ## Motorola XTS Cable Modifications
 
-- Source: https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/
+- Source: https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/
 - Notes: modified Motorola XTS serial cable exposing microphone, speaker, and PTT lines while maintaining serial cable functionality.
 
-<img src="../assets/connector-closeup-2024-09-24-01.jpg" alt="connector closeup 2024 09 24 01" width="48%"> <img src="../assets/connector-closeup-2024-09-24-02.jpg" alt="connector closeup 2024 09 24 02" width="48%">
+<img src="../assets/connector-soldering-2024-09-14-01.jpg" alt="motorola xts cable modification soldering 2024 09 14 01" width="48%"> <img src="../assets/connector-soldering-2024-09-14-02.jpg" alt="motorola xts cable modification soldering 2024 09 14 02" width="48%">
 
-<img src="../assets/connector-closeup-2024-09-24-03.jpg" alt="connector closeup 2024 09 24 03" width="48%"> <img src="../assets/connector-closeup-2024-09-24-04.jpg" alt="connector closeup 2024 09 24 04" width="48%">
+<img src="../assets/connector-soldering-2024-09-14-03.jpg" alt="motorola xts cable modification soldering 2024 09 14 03" width="48%"> <img src="../assets/connector-soldering-2024-09-14-04.jpg" alt="motorola xts cable modification soldering 2024 09 14 04" width="48%">
 
-<img src="../assets/connector-closeup-2024-09-24-05.gif" alt="connector closeup 2024 09 24 05" width="48%">
-
-## Vehicle Radio Interface Cabling
-
-- Source: local Telegram ChatExport video review, selected by Josh for repo incorporation.
-- Redaction note: private review only until vehicle/radio display details are checked.
-
-<img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="vehicle radio interface cabling workflow 2025 05 15" width="48%">
+<img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="motorola xts cable modification soldering 2024 09 14 05" width="48%">
 
 ## EFJohnson 5300 Keyfill Cable
 
@@ -65,6 +58,8 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 <img src="../assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="custom radio connector closeup 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="custom radio connector closeup 2024 09 24 02" width="48%">
 
 <img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio keyfill interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio keyfill interface cable 2024 09 24 02" width="48%">
+
+<img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="efjohnson 5300 keyloading display when keyfill cable is connected 2025 05 15" width="48%">
 
 ## UHF Manpack Development
 
