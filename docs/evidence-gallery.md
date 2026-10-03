@@ -99,9 +99,10 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="connector soldering 2024 09 14 05" width="48%">
 
-## Connector Parts
+## Motorola XTS Cable Modification Connector Parts
 
 - Source: https://www.instagram.com/p/C_3sWDdxtPxA9EcCq70SYI2abFfNewYmDgFH7o0/
+- Notes: connector/parts sourcing for the Motorola XTS serial cable modification.
 
 <img src="../assets/connector-parts-2024-09-13-01.jpg" alt="connector parts 2024 09 13 01" width="48%"> <img src="../assets/connector-parts-2024-09-13-02.jpg" alt="connector parts 2024 09 13 02" width="48%">
 

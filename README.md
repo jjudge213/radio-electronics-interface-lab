@@ -16,6 +16,10 @@ Connector parts, soldering, and closeups support hands-on interface fabrication 
 
 This evidence documents modification of a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while maintaining serial cable functionality.
 
+<img src="assets/connector-parts-2024-09-13-01.jpg" alt="Motorola XTS cable modification connector parts, 2024-09-13" width="48%"> <img src="assets/connector-parts-2024-09-13-02.jpg" alt="Motorola XTS cable modification connector parts alternate angle, 2024-09-13" width="48%">
+
+<img src="assets/connector-parts-2024-09-13-03.jpg" alt="Motorola XTS cable modification connector parts detail, 2024-09-13" width="48%"> <img src="assets/connector-parts-2024-09-13-04.jpg" alt="Motorola XTS cable modification connector parts kit, 2024-09-13" width="48%">
+
 <img src="assets/connector-soldering-2024-09-14-01.jpg" alt="Motorola XTS cable modification soldering, 2024-09-14" width="48%"> <img src="assets/connector-soldering-2024-09-14-02.jpg" alt="Motorola XTS cable modification soldering alternate angle, 2024-09-14" width="48%">
 
 <img src="assets/connector-soldering-2024-09-14-03.jpg" alt="Motorola XTS cable modification wire preparation, 2024-09-14" width="48%"> <img src="assets/connector-soldering-2024-09-14-04.jpg" alt="Motorola XTS cable modification connector assembly, 2024-09-14" width="48%">
