@@ -82,7 +82,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-03.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 03" width="48%"> <img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-04.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 04" width="48%">
 
-<img src="../assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="redacted efjohnson manpack radio closeup 2025 04 28" width="48%">
+<img src="../assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="redacted efjohnson manpack radio closeup 2025 04 28" width="48%"> <img src="../assets/efjohnson-manpack-front-fitment-2025-04-28-01.jpg" alt="efjohnson manpack front fitment 2025 04 28" width="48%">
 
 ## Mavic Air 2 5Ghz Spectrum
 

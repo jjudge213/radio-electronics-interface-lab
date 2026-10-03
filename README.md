@@ -38,7 +38,7 @@ Selected still evidence below documents a UHF/EFJohnson manpack development path
 
 <img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-03.jpg" alt="EFJohnson manpack Osprey bag connected fitment, 2025-04-28" width="48%"> <img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-04.jpg" alt="EFJohnson manpack Osprey bag assembled fitment, 2025-04-28" width="48%">
 
-<img src="assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="Redacted EFJohnson manpack radio close-up with antenna and frame detail, 2025-04-28" width="48%">
+<img src="assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="Redacted EFJohnson manpack radio close-up with antenna and frame detail, 2025-04-28" width="48%"> <img src="assets/efjohnson-manpack-front-fitment-2025-04-28-01.jpg" alt="EFJohnson manpack front fitment in Osprey bag, 2025-04-28" width="48%">
 
 ### RF and SDR
 
@@ -50,8 +50,8 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 48
-- JPG stills: 46
+- Active media assets: 49
+- JPG stills: 47
 - Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 
