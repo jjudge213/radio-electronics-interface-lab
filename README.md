@@ -16,16 +16,6 @@ Selected vehicle-radio interface video evidence adds motion context for cable ro
 
 <img src="assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="Vehicle radio interface cabling workflow evidence, 2025-05-15" width="48%">
 
-Selected still evidence below adds custom connector, cable, and radio data-interface context.
-
-<img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
-
-<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="Custom radio interface cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="Custom radio interface cable completed lead, 2024-09-24" width="48%">
-
-<img src="assets/custom-radio-cables-arrived-2024-11-30-01.jpg" alt="Custom radio cable fitment evidence, 2024-11-30" width="48%"> <img src="assets/custom-radio-cables-arrived-2024-11-30-02.jpg" alt="Custom radio cable in radio kit context, 2024-11-30" width="48%">
-
-<img src="assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="Mobile radio data cable interface evidence, 2024-09-15" width="48%">
-
 ### UHF Manpack Development
 
 Selected still evidence below documents a UHF/EFJohnson manpack development path: a plastic 3D-printed frame, side support geometry, a panel concept for antenna mounting and power-switch access, and fitment of the radio package into an Osprey backpack-style carry setup.
@@ -50,8 +40,8 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 49
-- JPG stills: 47
+- Active media assets: 42
+- JPG stills: 40
 - Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 
