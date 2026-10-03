@@ -24,7 +24,7 @@ Selected still evidence below adds custom connector, cable, and radio data-inter
 
 <img src="assets/custom-radio-cables-arrived-2024-11-30-01.jpg" alt="Custom radio cable fitment evidence, 2024-11-30" width="48%"> <img src="assets/custom-radio-cables-arrived-2024-11-30-02.jpg" alt="Custom radio cable in radio kit context, 2024-11-30" width="48%">
 
-<img src="assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="Mobile radio data cable interface evidence, 2024-09-15" width="48%"> <img src="assets/custom-radio-cable-reference-2024-11-30-01.jpg" alt="Custom radio cable reference evidence, 2024-11-30" width="48%">
+<img src="assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="Mobile radio data cable interface evidence, 2024-09-15" width="48%">
 
 ### RF and SDR
 
@@ -36,8 +36,8 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 40
-- JPG stills: 38
+- Active media assets: 39
+- JPG stills: 37
 - Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 

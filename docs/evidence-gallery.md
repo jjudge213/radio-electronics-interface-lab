@@ -66,7 +66,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/custom-radio-cables-arrived-2024-11-30-01.jpg" alt="custom radio cables arrived 2024 11 30 01" width="48%"> <img src="../assets/custom-radio-cables-arrived-2024-11-30-02.jpg" alt="custom radio cables arrived 2024 11 30 02" width="48%">
 
-<img src="../assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="mobile radio data cable interface 2024 09 15" width="48%"> <img src="../assets/custom-radio-cable-reference-2024-11-30-01.jpg" alt="custom radio cable reference 2024 11 30" width="48%">
+<img src="../assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="mobile radio data cable interface 2024 09 15" width="48%">
 
 ## Mavic Air 2 5Ghz Spectrum
 

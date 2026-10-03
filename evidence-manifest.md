@@ -19,7 +19,6 @@ This manifest combines the rebuilt `unblocked_active` Instagram evidence list wi
 | 2024-09-24 | Custom Radio Interface Cable | Telegram ChatExport photo_736-photo_737 | custom-radio-interface-cable-2024-09-24-01.jpg<br>custom-radio-interface-cable-2024-09-24-02.jpg |
 | 2024-11-30 | Custom Radio Cable Fitment | Telegram ChatExport photo_885-photo_886 | custom-radio-cables-arrived-2024-11-30-01.jpg<br>custom-radio-cables-arrived-2024-11-30-02.jpg |
 | 2024-09-15 | Mobile Radio Data Cable Interface | Telegram ChatExport photo_707 | mobile-radio-data-cable-interface-2024-09-15-01.jpg |
-| 2024-11-30 | Custom Radio Cable Reference | Telegram ChatExport photo_884 | custom-radio-cable-reference-2024-11-30-01.jpg |
 | 2024-09-15 | Mavic Air 2 5Ghz Spectrum | https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/ | mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg |
 | 2024-09-14 | Hackrf Sweep Mavic Air 2 | https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/ | hackrf-sweep-mavic-air-2-2024-09-14-01.jpg<br>hackrf-sweep-mavic-air-2-2024-09-14-02.jpg |
 | 2024-09-14 | Connector Soldering | https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/ | connector-soldering-2024-09-14-01.jpg<br>connector-soldering-2024-09-14-02.jpg<br>connector-soldering-2024-09-14-03.jpg<br>connector-soldering-2024-09-14-04.jpg<br>connector-soldering-2024-09-14-05.jpg |
