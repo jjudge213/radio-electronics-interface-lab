@@ -20,6 +20,8 @@ Selected still evidence below adds custom connector and keyfill/interface cable 
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
+<img src="assets/connector-closeup-2024-09-24-05.gif" alt="Connector closeup video from the keyfill/interface cable post, 2024-09-24" width="48%">
+
 <img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="Custom radio keyfill/interface cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="Custom radio keyfill/interface cable completed lead, 2024-09-24" width="48%">
 
 ### UHF Manpack Development

@@ -62,6 +62,8 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="custom radio connector closeup 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="custom radio connector closeup 2024 09 24 02" width="48%">
 
+<img src="../assets/connector-closeup-2024-09-24-05.gif" alt="connector closeup video from keyfill interface post 2024 09 24" width="48%">
+
 <img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio keyfill interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio keyfill interface cable 2024 09 24 02" width="48%">
 
 ## UHF Manpack Development
