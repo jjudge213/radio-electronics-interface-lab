@@ -55,6 +55,19 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="vehicle radio interface cabling workflow 2025 05 15" width="48%">
 
+## Custom Radio Cable And Data Interface Selected Photos
+
+- Source: local Telegram ChatExport photo review, selected by Josh for repo incorporation.
+- Redaction note: private review only until labels, display details, and surrounding radio context are checked.
+
+<img src="../assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="custom radio connector closeup 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="custom radio connector closeup 2024 09 24 02" width="48%">
+
+<img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio interface cable 2024 09 24 02" width="48%">
+
+<img src="../assets/custom-radio-cables-arrived-2024-11-30-01.jpg" alt="custom radio cables arrived 2024 11 30 01" width="48%"> <img src="../assets/custom-radio-cables-arrived-2024-11-30-02.jpg" alt="custom radio cables arrived 2024 11 30 02" width="48%">
+
+<img src="../assets/mobile-radio-data-cable-interface-2024-09-15-01.jpg" alt="mobile radio data cable interface 2024 09 15" width="48%"> <img src="../assets/custom-radio-cable-reference-2024-11-30-01.jpg" alt="custom radio cable reference 2024 11 30" width="48%">
+
 ## Mavic Air 2 5Ghz Spectrum
 
 - Source: https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/
