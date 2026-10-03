@@ -48,6 +48,13 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/connector-closeup-2024-09-24-05.gif" alt="connector closeup 2024 09 24 05" width="48%">
 
+## Vehicle Radio Interface Cabling
+
+- Source: local Telegram ChatExport video review, selected by Josh for repo incorporation.
+- Redaction note: private review only until vehicle/radio display details are checked.
+
+<img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="vehicle radio interface cabling workflow 2025 05 15" width="48%">
+
 ## Mavic Air 2 5Ghz Spectrum
 
 - Source: https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/

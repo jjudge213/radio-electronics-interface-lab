@@ -12,6 +12,10 @@ This repo provides brief, separated synopses for the physical/electrical layer t
 
 Connector parts, soldering, and closeups support hands-on interface fabrication and inspection.
 
+Selected vehicle-radio interface video evidence adds motion context for cable routing and radio interface handling in a vehicle environment.
+
+<img src="assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="Vehicle radio interface cabling workflow evidence, 2025-05-15" width="48%">
+
 ### RF and SDR
 
 HackRF/spectrum and aviation-tracking evidence provide RF context without overclaiming formal test-lab coverage.
@@ -22,9 +26,9 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 31
+- Active media assets: 32
 - JPG stills: 30
-- Animated GIFs: 1
+- Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 
 ## Review Docs

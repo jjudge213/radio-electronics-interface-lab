@@ -2,11 +2,11 @@
 
 Repo: `radio-electronics-interface-lab`
 
-This manifest was rebuilt from `blocked-unblocked-posts.csv` using only rows marked `unblocked_active` for this repository.
+This manifest combines the rebuilt `unblocked_active` Instagram evidence list with selected local ChatExport review assets approved for private portfolio incorporation.
 
 ## Active Evidence
 
-| Date | Evidence | Instagram URL | Assets |
+| Date | Evidence | Source | Assets |
 |---|---|---|---|
 |  | Microscope Pcb Electronics Inspection Setup | https://www.instagram.com/p/CkWQHXOLtGiyOD30oAmCfmn3NHbQPHv-uMJ5vg0/ | microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg<br>microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg |
 |  | Arduino Breadboard Electronics Notes | https://www.instagram.com/p/Cjwa3ntrmF3cl4BnGOtBDMKR5IGJhyISZy8i0s0/ | arduino-breadboard-electronics-notes-2022-10-16-01.jpg<br>arduino-breadboard-electronics-notes-2022-10-16-02.jpg |
@@ -14,6 +14,7 @@ This manifest was rebuilt from `blocked-unblocked-posts.csv` using only rows mar
 |  | Handheld Radio Scanner Security Device On Table | https://www.instagram.com/p/C5cU17wrwUoUNX_AKwSJQpNx0WA3W2ebc_1kpA0/ | handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg |
 | 2025-06-16 | Aviation Tracking | https://www.instagram.com/p/DK9fjOxx-tYA7fS929WBn002tyw1E2jNy8mmRk0/ | aviation-tracking-2025-06-16-01.jpg |
 | 2024-09-24 | Connector Closeup | https://www.instagram.com/p/DAUOr2UR2dNdWqzrFwxzzjY1Yxk-jWi4PZv6R40/ | connector-closeup-2024-09-24-01.jpg<br>connector-closeup-2024-09-24-02.jpg<br>connector-closeup-2024-09-24-03.jpg<br>connector-closeup-2024-09-24-04.jpg<br>connector-closeup-2024-09-24-05.gif |
+| 2025-05-15 | Vehicle Radio Interface Cabling | Telegram ChatExport video_224 | vehicle-radio-interface-cabling-2025-05-15-01.gif |
 | 2024-09-15 | Mavic Air 2 5Ghz Spectrum | https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/ | mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg |
 | 2024-09-14 | Hackrf Sweep Mavic Air 2 | https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/ | hackrf-sweep-mavic-air-2-2024-09-14-01.jpg<br>hackrf-sweep-mavic-air-2-2024-09-14-02.jpg |
 | 2024-09-14 | Connector Soldering | https://www.instagram.com/p/C_4bAjVxub_gcCPxcNCVnPKTqOcx4CAalsy2A40/ | connector-soldering-2024-09-14-01.jpg<br>connector-soldering-2024-09-14-02.jpg<br>connector-soldering-2024-09-14-03.jpg<br>connector-soldering-2024-09-14-04.jpg<br>connector-soldering-2024-09-14-05.jpg |
