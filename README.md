@@ -34,7 +34,7 @@ This custom keyfill cable was built for the EFJohnson 5300 series radio using a 
 
 <img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom keyfill cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom keyfill cable completed lead, 2024-09-24" width="48%">
 
-<img src="assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="EFJohnson 5300 keyloading display when keyfill cable is connected, 2025-05-15" width="48%">
+<img src="assets/efjohnson-5300-keyfill-display-2024-09-24-01.gif" alt="EFJohnson 5300 keyfill display workflow, 2024-09-24" width="48%">
 
 ### UHF Manpack Development
 

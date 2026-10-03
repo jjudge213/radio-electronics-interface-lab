@@ -59,7 +59,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio keyfill interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio keyfill interface cable 2024 09 24 02" width="48%">
 
-<img src="../assets/vehicle-radio-interface-cabling-2025-05-15-01.gif" alt="efjohnson 5300 keyloading display when keyfill cable is connected 2025 05 15" width="48%">
+<img src="../assets/efjohnson-5300-keyfill-display-2024-09-24-01.gif" alt="efjohnson 5300 keyfill display workflow 2024 09 24" width="48%">
 
 ## UHF Manpack Development
 
