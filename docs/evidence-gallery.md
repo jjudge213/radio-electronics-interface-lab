@@ -71,12 +71,18 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 ## UHF Manpack Development
 
 - Source: local Telegram ChatExport photo review, selected by Josh for repo incorporation.
-- Notes: plastic 3D-printed frame with panel concept for antenna mounting and power-switch access.
+- Notes: plastic 3D-printed frame with panel concept for antenna mounting and power-switch access, plus EFJohnson radio package fitment in an Osprey backpack-style carry setup.
 - Redaction note: private review only until labels, serials, and surrounding workspace details are checked.
 
 <img src="../assets/uhf-manpack-3d-printed-frame-2024-10-03-01.jpg" alt="uhf manpack 3d printed frame 2024 10 03 01" width="48%"> <img src="../assets/uhf-manpack-3d-printed-frame-2024-10-03-02.jpg" alt="uhf manpack 3d printed frame 2024 10 03 02" width="48%">
 
 <img src="../assets/uhf-manpack-antenna-power-panel-2024-10-03-01.jpg" alt="uhf manpack antenna power panel 2024 10 03 01" width="48%"> <img src="../assets/uhf-manpack-antenna-power-panel-2024-10-03-02.jpg" alt="uhf manpack antenna power panel 2024 10 03 02" width="48%">
+
+<img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-01.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 01" width="48%"> <img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-02.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 02" width="48%">
+
+<img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-03.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 03" width="48%"> <img src="../assets/efjohnson-manpack-osprey-fitment-2025-04-28-04.jpg" alt="efjohnson manpack osprey fitment 2025 04 28 04" width="48%">
+
+<img src="../assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="redacted efjohnson manpack radio closeup 2025 04 28" width="48%">
 
 ## Mavic Air 2 5Ghz Spectrum
 

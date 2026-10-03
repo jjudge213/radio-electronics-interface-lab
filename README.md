@@ -28,11 +28,17 @@ Selected still evidence below adds custom connector, cable, and radio data-inter
 
 ### UHF Manpack Development
 
-Selected still evidence below documents a UHF manpack development path: a plastic 3D-printed frame, side support geometry, and a panel concept for antenna mounting and power-switch access.
+Selected still evidence below documents a UHF/EFJohnson manpack development path: a plastic 3D-printed frame, side support geometry, a panel concept for antenna mounting and power-switch access, and fitment of the radio package into an Osprey backpack-style carry setup.
 
 <img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-01.jpg" alt="UHF manpack 3D-printed frame, 2024-10-03" width="48%"> <img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-02.jpg" alt="UHF manpack 3D-printed frame alternate angle, 2024-10-03" width="48%">
 
 <img src="assets/uhf-manpack-antenna-power-panel-2024-10-03-01.jpg" alt="UHF manpack antenna and power-switch panel concept, 2024-10-03" width="48%"> <img src="assets/uhf-manpack-antenna-power-panel-2024-10-03-02.jpg" alt="UHF manpack panel and frame detail, 2024-10-03" width="48%">
+
+<img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-01.jpg" alt="EFJohnson manpack Osprey bag fitment, 2025-04-28" width="48%"> <img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-02.jpg" alt="EFJohnson manpack Osprey bag wiring and speaker context, 2025-04-28" width="48%">
+
+<img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-03.jpg" alt="EFJohnson manpack Osprey bag connected fitment, 2025-04-28" width="48%"> <img src="assets/efjohnson-manpack-osprey-fitment-2025-04-28-04.jpg" alt="EFJohnson manpack Osprey bag assembled fitment, 2025-04-28" width="48%">
+
+<img src="assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="Redacted EFJohnson manpack radio close-up with antenna and frame detail, 2025-04-28" width="48%">
 
 ### RF and SDR
 
@@ -44,8 +50,8 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 ## Current Evidence
 
-- Active media assets: 43
-- JPG stills: 41
+- Active media assets: 48
+- JPG stills: 46
 - Animated GIFs: 2
 - Source posture: private review assets only; publication requires redaction and fit review.
 
