@@ -70,15 +70,11 @@ PCB inspection, breadboard work, and teardown photos show electronics fluency re
 
 #### Custom Audio/PTT Interface Development
 
-Breadboard and bench-note evidence documents custom audio/PTT interface development for Motorola XTVA integration. A DB25 breakout connector connects to the Motorola XTVA and exposes speaker, microphone, and PTT lines for bench testing and interface development.
+Breadboard, bench-note, and microscope evidence documents custom audio/PTT interface development for Motorola XTVA integration. A DB25 breakout connector connects to the Motorola XTVA and exposes speaker, microphone, and PTT lines for bench testing and interface development. The microscope images show the PCB side of the same audio/PTT interface, including close inspection of signal labels and small board features.
 
 <img src="assets/arduino-breadboard-electronics-notes-2022-10-16-01.jpg" alt="Arduino breadboard audio and PTT interface development notes, 2022-10-16" width="48%"> <img src="assets/arduino-breadboard-electronics-notes-2022-10-16-02.jpg" alt="Breadboard interface development notes and wiring, 2022-10-16" width="48%">
 
-#### PCB Inspection And Verification
-
-Microscope inspection evidence supports the electronics verification workflow after breadboard/interface development, including close visual inspection of small board features and connector-related signal labels.
-
-<img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg" alt="Microscope PCB electronics inspection setup, 2022-10-30" width="48%"> <img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg" alt="Microscope close-up of PCB signal labels, 2022-10-30" width="48%">
+<img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg" alt="Microscope view of the PCB side of the audio/PTT interface, 2022-10-30" width="48%"> <img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg" alt="Microscope close-up of audio/PTT interface PCB signal labels, 2022-10-30" width="48%">
 
 ## Current Evidence
 
