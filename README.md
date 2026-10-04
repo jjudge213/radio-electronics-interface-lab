@@ -50,9 +50,19 @@ Selected still evidence below documents a UHF/EFJohnson manpack development path
 
 <img src="assets/efjohnson-manpack-radio-closeup-redacted-2025-04-28-01.jpg" alt="Redacted EFJohnson manpack radio close-up with antenna and frame detail, 2025-04-28" width="48%"> <img src="assets/efjohnson-manpack-front-fitment-2025-04-28-01.jpg" alt="EFJohnson manpack front fitment in Osprey bag, 2025-04-28" width="48%">
 
-### RF and SDR
+### SDR/RF
 
 HackRF/spectrum and aviation-tracking evidence provide RF context without overclaiming formal test-lab coverage.
+
+#### DJI Mavic Air 2 / RC-N1 Spectrum Observation
+
+HackRF sweep waterfall captures document SDR observation work in the DJI Mavic Air 2 / RC-N1 controller operating bands. The public `hackrf_sweep` workflow was used to sweep the 2.4 GHz and 5 GHz controller frequency ranges while the controller and aircraft moved through visible operating states.
+
+The supporting images show repeatable RF emission pattern changes between controller-only, aircraft-on, and linked controller/aircraft communication states. This supports a spectrum-level finding that the DJI link presents distinct RF signatures across operating states. It is not presented as decoded protocol evidence, packet attribution, Remote ID analysis, or proof of command/video/telemetry contents.
+
+<img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-01.jpg" alt="HackRF sweep Mavic Air 2 2.4 GHz and 5 GHz spectrum observation, 2024-09-14" width="48%"> <img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-02.jpg" alt="HackRF sweep Mavic Air 2 alternate spectrum observation, 2024-09-14" width="48%">
+
+<img src="assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="Mavic Air 2 5 GHz spectrum waterfall observation, 2024-09-15" width="48%">
 
 ### Embedded Electronics
 

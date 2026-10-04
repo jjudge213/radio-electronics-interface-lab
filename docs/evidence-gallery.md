@@ -80,12 +80,15 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 ## Mavic Air 2 5Ghz Spectrum
 
 - Source: https://www.instagram.com/p/C_6t7quRTk63cho1Fu8BPwoYXG8eGZKqh57znA0/
+- Notes: HackRF/spectrum waterfall observation of DJI Mavic Air 2 / RC-N1 activity in the 5 GHz controller band. This supports a spectrum-level RF signature comparison between operating states; it is not decoded protocol or packet-content evidence.
 
 <img src="../assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="mavic air 2 5ghz spectrum 2024 09 15 01" width="48%">
 
 ## Hackrf Sweep Mavic Air 2
 
 - Source: https://www.instagram.com/p/C_6gfCuxpJiX1T607da9hYwzJS61s0Ht8zcjEk0/
+- Notes: public `hackrf_sweep` workflow used with HackRF to sweep the 2.4 GHz and 5 GHz DJI controller frequency ranges. The captures show distinct RF emission patterns as the controller/drone system transitions between controller-only, aircraft-on, and linked communication states.
+- Evidence boundary: spectrum-level observation only; does not establish decoded DJI protocol traffic, command/video/telemetry attribution, Remote ID behavior, or payload contents.
 
 <img src="../assets/hackrf-sweep-mavic-air-2-2024-09-14-01.jpg" alt="hackrf sweep mavic air 2 2024 09 14 01" width="48%"> <img src="../assets/hackrf-sweep-mavic-air-2-2024-09-14-02.jpg" alt="hackrf sweep mavic air 2 2024 09 14 02" width="48%">
 
