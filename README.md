@@ -2,10 +2,6 @@
 
 Public-safe project collection for radio interfaces, cable work, SDR/RF, and electronics bench projects.
 
-## Purpose
-
-This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
-
 ## Interface / RF / Bench Map
 
 ```mermaid
@@ -19,6 +15,10 @@ flowchart TD
     antenna --> nanovna[NanoVNA antenna and sweep checks]
     sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
 ```
+
+## Purpose
+
+This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
 
 ## Key Results
 
