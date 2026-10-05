@@ -13,6 +13,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Built an EFJohnson 5300 ES accessory-connector breakout/test board for bench access to audio/PTT lines during interface testing.
 - Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
 - Designed and assembled a pole-mounted VHF/UHF dipole antenna fixture using a BNC-to-banana adapter clamped between PVC sections.
+- Used NanoVNA handheld and PC software views to document antenna iteration, VHF/UHF sweep behavior, Smith-chart views, and VSWR/return-loss context.
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
 
@@ -24,6 +25,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Built an EFJohnson 5300 ES accessory-connector breakout/test board to expose audio/PTT lines for controlled bench testing.
 - Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
 - Designed a 3D-printed clamp/fixture for a pole-mounted VHF/UHF dipole antenna using PVC sections, 12 AWG wire elements, and a BNC-to-banana adapter feedpoint.
+- Used NanoVNA and NanoVNA Saver software to inspect antenna behavior with Smith-chart, VSWR, return-loss, and sweep views during RF experimentation.
 - Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
 
 ## Interface / RF / Bench Map
@@ -36,7 +38,7 @@ flowchart TD
     radio --> manpack[Manpack frame and panel development]
     rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
     rf --> antenna[VHF/UHF antenna fixture]
-    antenna --> nanovna[NanoVNA improvised antenna check]
+    antenna --> nanovna[NanoVNA antenna and sweep checks]
     sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
 ```
 
@@ -126,11 +128,19 @@ This sequence documents an improvised VHF/UHF dipole antenna fixture built aroun
 
 This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim.
 
-#### NanoVNA Improvised Antenna Check
+#### NanoVNA Antenna And RF Measurement Work
 
-This image documents bench experimentation with a NanoVNA connected to an improvised antenna made from a BNC-to-banana adapter and 12 AWG wire elements. It is included as setup and test-equipment evidence for antenna iteration, not as a formal antenna-performance result.
+This sequence documents antenna and RF measurement work using a NanoVNA and NanoVNA Saver PC software. It starts with a physical improvised antenna setup made from a BNC-to-banana adapter and 12 AWG wire elements, then shows handheld VHF/UHF Smith-chart and SWR/return-loss views, followed by NanoVNA Saver software sweeps and configuration screens.
 
 <img src="assets/nanovna-bnc-banana-12awg-dipole-test-2023-06-26-01.jpg" alt="NanoVNA connected to improvised BNC-to-banana adapter and 12 AWG wire antenna test setup" width="75%">
+
+<img src="assets/nanovna-vhf-uhf-swr-smith-screen-2023-08-01-01.jpg" alt="NanoVNA VHF sweep with Smith chart, SWR, and return-loss traces" width="48%"> <img src="assets/nanovna-vhf-uhf-swr-smith-screen-2023-08-01-02.jpg" alt="NanoVNA UHF sweep with Smith chart, SWR, and return-loss traces" width="48%">
+
+<img src="assets/nanovna-saver-pc-software-sweep-setup-2023-08-06-01.jpg" alt="NanoVNA Saver PC software sweep setup and measurement panes" width="48%"> <img src="assets/nanovna-saver-pc-software-sweep-settings-2023-08-06-01.jpg" alt="NanoVNA Saver PC software sweep settings dialog" width="48%">
+
+<img src="assets/nanovna-saver-pc-software-uhf-sweep-2023-08-06-01.jpg" alt="NanoVNA Saver PC software UHF sweep plots with VSWR and return-loss views" width="75%">
+
+These images are included as test-equipment and workflow evidence. They show practical antenna iteration and measurement views, not calibrated lab-grade antenna characterization.
 
 #### DJI Mavic Air 2 / RC-N1 Spectrum Observation
 
@@ -156,8 +166,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 66
-- JPG stills: 64
+- Active media assets: 71
+- JPG stills: 69
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 

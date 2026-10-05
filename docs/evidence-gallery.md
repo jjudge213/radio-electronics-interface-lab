@@ -63,13 +63,19 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%"> <img src="../assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="48%">
 
-## NanoVNA Improvised Antenna Check
+## NanoVNA Antenna And RF Measurement Work
 
 - Source: Private source archive; cropped public-safe derivative.
-- Notes: NanoVNA connected to an improvised antenna made from a BNC-to-banana adapter and 12 AWG wire elements.
-- Boundary: included as setup and test-equipment evidence for antenna iteration, not as a formal antenna-performance result.
+- Notes: NanoVNA and NanoVNA Saver views documenting antenna iteration, VHF/UHF sweep behavior, Smith-chart views, VSWR/return-loss context, and PC-side sweep setup.
+- Boundary: included as setup and test-equipment workflow evidence, not as calibrated lab-grade antenna characterization.
 
 <img src="../assets/nanovna-bnc-banana-12awg-dipole-test-2023-06-26-01.jpg" alt="NanoVNA connected to improvised BNC-to-banana adapter and 12 AWG wire antenna test setup" width="75%">
+
+<img src="../assets/nanovna-vhf-uhf-swr-smith-screen-2023-08-01-01.jpg" alt="NanoVNA VHF sweep with Smith chart, SWR, and return-loss traces" width="48%"> <img src="../assets/nanovna-vhf-uhf-swr-smith-screen-2023-08-01-02.jpg" alt="NanoVNA UHF sweep with Smith chart, SWR, and return-loss traces" width="48%">
+
+<img src="../assets/nanovna-saver-pc-software-sweep-setup-2023-08-06-01.jpg" alt="NanoVNA Saver PC software sweep setup and measurement panes" width="48%"> <img src="../assets/nanovna-saver-pc-software-sweep-settings-2023-08-06-01.jpg" alt="NanoVNA Saver PC software sweep settings dialog" width="48%">
+
+<img src="../assets/nanovna-saver-pc-software-uhf-sweep-2023-08-06-01.jpg" alt="NanoVNA Saver PC software UHF sweep plots with VSWR and return-loss views" width="75%">
 
 ## Motorola XTS Cable Modifications
 
