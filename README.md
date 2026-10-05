@@ -14,6 +14,14 @@ This repo collects the physical and electrical layer work that supports the radi
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
 
+## Resume Bullets
+
+- Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and keyfill paths.
+- Modified a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while preserving original serial-cable functionality.
+- Built an EFJohnson 5300 keyfill cable using service-manual pinout research, connector inspection, and bench-level fabrication practices.
+- Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
+- Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
+
 ## Interface / RF / Bench Map
 
 ```mermaid
