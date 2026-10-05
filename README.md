@@ -6,6 +6,20 @@ Public-safe project collection for radio interfaces, cable work, SDR/RF, and ele
 
 This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
 
+## Interface / RF / Bench Map
+
+```mermaid
+flowchart TD
+    radio[Radio platforms] --> cable[Cable and connector work]
+    cable --> audio[Audio / PTT / accessory interfaces]
+    audio --> bench[Breadboard and microscope bench work]
+    radio --> manpack[Manpack frame and panel development]
+    rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
+    rf --> antenna[VHF/UHF antenna fixture]
+    antenna --> nanovna[NanoVNA antenna and sweep checks]
+    sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
+```
+
 ## Key Results
 
 - Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
@@ -27,20 +41,6 @@ This repo collects the physical and electrical layer work that supports the radi
 - Designed a 3D-printed clamp/fixture for a pole-mounted VHF/UHF dipole antenna using PVC sections, 12 AWG wire elements, and a BNC-to-banana adapter feedpoint.
 - Used NanoVNA and NanoVNA Saver software to inspect antenna behavior with Smith-chart, VSWR, return-loss, and sweep views during RF experimentation.
 - Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
-
-## Interface / RF / Bench Map
-
-```mermaid
-flowchart TD
-    radio[Radio platforms] --> cable[Cable and connector work]
-    cable --> audio[Audio / PTT / accessory interfaces]
-    audio --> bench[Breadboard and microscope bench work]
-    radio --> manpack[Manpack frame and panel development]
-    rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
-    rf --> antenna[VHF/UHF antenna fixture]
-    antenna --> nanovna[NanoVNA antenna and sweep checks]
-    sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
-```
 
 ## Project Sections
 
