@@ -104,11 +104,13 @@ This section follows a UHF/EFJohnson manpack development path: a plastic 3D-prin
 
 GNU Radio flowgraph work, HackRF spectrum captures, and aviation-tracking work provide RF context without presenting this as formal test-lab coverage.
 
-#### GNU Radio Audio Filtering Flowgraph
+#### GNU Radio Audio Filtering And Baseband Monitor Work
 
-This GNU Radio Companion flowgraph documents audio-source signal processing work: band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output. It fits the repo as SDR/RF-adjacent bench work because it shows practical signal-chain construction before moving into RF capture and spectrum-observation examples.
+This GNU Radio Companion flowgraph documents audio-source signal processing work: band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output. The related baseband monitor screenshots show the output side of the same signal-analysis workflow. It fits the repo as SDR/RF-adjacent bench work because it shows practical signal-chain construction before moving into RF capture and spectrum-observation examples.
 
 <img src="assets/gnuradio-audio-filter-flowgraph-2023-08-02-01.jpg" alt="GNU Radio audio filtering and visualization flowgraph, 2023-08-02" width="75%">
+
+<img src="assets/baseband-monitor-audio-spectrum-2023-08-02-01.jpg" alt="Baseband monitor audio spectrum display from GNU Radio audio filtering workflow, 2023-08-02" width="48%"> <img src="assets/baseband-monitor-audio-spectrum-2023-08-02-02.jpg" alt="Second baseband monitor audio spectrum display from GNU Radio audio filtering workflow, 2023-08-02" width="48%">
 
 #### Pole-Mounted VHF/UHF Dipole Antenna Fixture
 
@@ -166,8 +168,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 71
-- JPG stills: 69
+- Active media assets: 73
+- JPG stills: 71
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 

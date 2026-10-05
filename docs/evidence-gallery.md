@@ -38,12 +38,14 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/aviation-tracking-2025-06-16-01.jpg" alt="aviation tracking 2025 06 16 01" width="48%">
 
-## GNU Radio Audio Filtering Flowgraph
+## GNU Radio Audio Filtering And Baseband Monitor Work
 
 - Source: Private source archive; cropped public-safe derivative.
-- Notes: GNU Radio Companion flowgraph showing audio-source signal processing with band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output.
+- Notes: GNU Radio Companion flowgraph and related baseband monitor screenshots showing audio-source signal processing with band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output.
 
 <img src="../assets/gnuradio-audio-filter-flowgraph-2023-08-02-01.jpg" alt="GNU Radio audio filtering and visualization flowgraph, 2023-08-02" width="75%">
+
+<img src="../assets/baseband-monitor-audio-spectrum-2023-08-02-01.jpg" alt="Baseband monitor audio spectrum display from GNU Radio audio filtering workflow, 2023-08-02" width="48%"> <img src="../assets/baseband-monitor-audio-spectrum-2023-08-02-02.jpg" alt="Second baseband monitor audio spectrum display from GNU Radio audio filtering workflow, 2023-08-02" width="48%">
 
 ## Pole-Mounted VHF/UHF Dipole Antenna Fixture
 
