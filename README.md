@@ -12,7 +12,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Built a custom EFJohnson 5300 interface cable from a handmic connector using reference documentation, connector inspection, and bench verification.
 - Built an EFJohnson 5300 ES accessory-connector breakout/test board for bench access to audio/PTT lines during interface testing.
 - Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
-- Designed and assembled a pole-mounted VHF/UHF dipole antenna fixture using a BNC-to-banana adapter clamped between PVC sections.
+- Designed a pole-mounted VHF/UHF dipole antenna fixture concept using a BNC-to-banana adapter clamped between PVC sections.
 - Used NanoVNA handheld and PC software views to document antenna iteration, VHF/UHF sweep behavior, Smith-chart views, and VSWR/return-loss context.
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
@@ -114,19 +114,11 @@ This GNU Radio Companion flowgraph documents audio-source signal processing work
 
 #### Pole-Mounted VHF/UHF Dipole Antenna Fixture
 
-This sequence documents an improvised VHF/UHF dipole antenna fixture built around a BNC-to-banana adapter feedpoint. The adapter is clamped between two PVC pole sections, with wire elements supported from the printed clamp body. The value here is the design and fitment workflow: CAD modeling, printed clamp assembly, feedpoint placement, and physical pole fitment.
+This sequence documents the CAD design for an improvised VHF/UHF dipole antenna fixture built around a BNC-to-banana adapter feedpoint. The public section keeps the clean design views only; earlier physical fitment photos were removed because their background was not appropriate for the portfolio.
 
 <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-01.jpg" alt="CAD model for PVC clamp body used in VHF/UHF dipole antenna fixture" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-02.jpg" alt="CAD side view showing BNC-to-banana adapter feedpoint clamped in antenna fixture" width="48%">
 
-<img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-03.jpg" alt="CAD top view of pole-mounted dipole antenna clamp and PVC opening" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-assembly-2025-03-13-01.jpg" alt="Assembly of printed PVC clamp body for improvised VHF/UHF dipole" width="48%">
-
-<img src="assets/vhf-uhf-dipole-pvc-clamp-assembly-2025-03-13-02.jpg" alt="Fastening the printed clamp body for BNC-to-banana dipole feedpoint" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-printed-body-2025-03-13-01.jpg" alt="Printed antenna clamp body showing PVC and feedpoint openings" width="48%">
-
-<img src="assets/vhf-uhf-dipole-pvc-clamp-printed-body-2025-03-13-02.jpg" alt="Alternate view of printed clamp body for pole-mounted dipole fixture" width="48%"> <img src="assets/vhf-uhf-dipole-bnc-banana-adapter-2025-03-13-01.jpg" alt="BNC-to-banana adapter positioned in the printed dipole antenna clamp" width="48%">
-
-<img src="assets/vhf-uhf-dipole-wire-element-fitment-2025-03-13-01.jpg" alt="Wire dipole element fitment through BNC-to-banana adapter fixture" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-01.jpg" alt="PVC pole fitment for improvised VHF/UHF dipole antenna" width="48%">
-
-<img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%"> <img src="assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="48%">
+<img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-03.jpg" alt="CAD top view of pole-mounted dipole antenna clamp and PVC opening" width="75%">
 
 This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim.
 
@@ -168,8 +160,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 73
-- JPG stills: 71
+- Active media assets: 64
+- JPG stills: 62
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 
