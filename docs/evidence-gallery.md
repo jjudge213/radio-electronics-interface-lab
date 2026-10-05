@@ -49,6 +49,8 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="motorola xts cable modification soldering 2024 09 14 05" width="48%">
 
+<img src="../assets/motorola-xts-digirig-audio-ptt-interface-diagram-2026-05-24-01.jpg" alt="Motorola XTS Digirig audio and PTT interface diagram, 2026-05-24" width="75%">
+
 ## EFJohnson 5300 Interface Cable
 
 - Source: Private source archive.

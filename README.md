@@ -54,6 +54,10 @@ This section documents modification of a Motorola XTS serial cable to expose mic
 
 <img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="48%">
 
+The interface diagram below captures the audio/PTT endpoint for the same Motorola XTS workflow: a Digirig-style audio lead mapped to radio microphone connector signals for speaker audio, microphone audio, PTT, and ground.
+
+<img src="assets/motorola-xts-digirig-audio-ptt-interface-diagram-2026-05-24-01.jpg" alt="Motorola XTS Digirig audio and PTT interface diagram, 2026-05-24" width="75%">
+
 #### EFJohnson 5300 Interface Cable
 
 This custom interface cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The public write-up is limited to fabrication, connector inspection, and bench-verification workflow; manufacturer manual pages, proprietary pinout tables, key material, and programming details are not reproduced.
