@@ -1,10 +1,30 @@
 # Radio Electronics Interface Lab
 
-A private supporting repo for radio interfaces, cable work, SDR/RF, and electronics bench projects.
+Public-safe project collection for radio interfaces, cable work, SDR/RF, and electronics bench projects.
 
 ## Purpose
 
 This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
+
+## Key Results
+
+- Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
+- Built a custom EFJohnson 5300 keyfill cable from a handmic connector using service-manual pinout research.
+- Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
+- Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
+- Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
+
+## Interface / RF / Bench Map
+
+```mermaid
+flowchart TD
+    radio[Radio platforms] --> cable[Cable and connector work]
+    cable --> audio[Audio / PTT / keyfill interfaces]
+    audio --> bench[Breadboard and microscope bench work]
+    radio --> manpack[Manpack frame and panel development]
+    rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
+    sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
+```
 
 ## Project Sections
 
@@ -81,7 +101,7 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 - Active media assets: 46
 - JPG stills: 44
 - Animated GIFs: 2
-- Source posture: private review assets only; publication requires redaction and fit review.
+- Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 
 ## Review Docs
 
