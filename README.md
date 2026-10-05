@@ -1,20 +1,20 @@
 # Radio Electronics Interface Lab
 
-A private supporting repo for radio interfaces, cable work, SDR/RF, and electronics bench evidence.
+A private supporting repo for radio interfaces, cable work, SDR/RF, and electronics bench projects.
 
 ## Purpose
 
-This repo provides brief, separated synopses for the physical/electrical layer that supports the radio and TAK repos: connectors, soldering, SDR/RF work, and embedded electronics inspection.
+This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
 
-## Evidence Structure
+## Project Sections
 
 ### Cables and Interfaces
 
-Connector parts, soldering, and closeups support hands-on interface fabrication and inspection.
+Connector parts, soldering, and closeups show the hands-on interface fabrication work behind the radio projects.
 
 #### Motorola XTS Cable Modifications
 
-This evidence documents modification of a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while maintaining serial cable functionality.
+This section documents modification of a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while maintaining serial cable functionality.
 
 <img src="assets/connector-parts-2024-09-13-01.jpg" alt="Motorola XTS cable modification connector parts, 2024-09-13" width="48%"> <img src="assets/connector-parts-2024-09-13-02.jpg" alt="Motorola XTS cable modification connector parts alternate angle, 2024-09-13" width="48%">
 
@@ -32,13 +32,13 @@ This custom keyfill cable was built for the EFJohnson 5300 series radio using a 
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
-<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom keyfill cable build evidence, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom keyfill cable completed lead, 2024-09-24" width="48%">
+<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom keyfill cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom keyfill cable completed lead, 2024-09-24" width="48%">
 
 <img src="assets/efjohnson-5300-keyfill-display-2024-09-24-01.gif" alt="EFJohnson 5300 keyfill display workflow, 2024-09-24" width="48%">
 
 ### UHF Manpack Development
 
-Selected still evidence below documents a UHF/EFJohnson manpack development path: a plastic 3D-printed frame, side support geometry, a panel concept for antenna mounting and power-switch access, and fitment of the radio package into an Osprey backpack-style carry setup.
+This section follows a UHF/EFJohnson manpack development path: a plastic 3D-printed frame, side support geometry, a panel concept for antenna mounting and power-switch access, and fitment of the radio package into an Osprey backpack-style carry setup.
 
 <img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-01.jpg" alt="UHF manpack 3D-printed frame, 2024-10-03" width="48%"> <img src="assets/uhf-manpack-3d-printed-frame-2024-10-03-02.jpg" alt="UHF manpack 3D-printed frame alternate angle, 2024-10-03" width="48%">
 
@@ -52,13 +52,13 @@ Selected still evidence below documents a UHF/EFJohnson manpack development path
 
 ### SDR/RF
 
-HackRF/spectrum and aviation-tracking evidence provide RF context without overclaiming formal test-lab coverage.
+HackRF spectrum captures and aviation-tracking work provide RF context without presenting this as formal test-lab coverage.
 
 #### DJI Mavic Air 2 / RC-N1 Spectrum Observation
 
 HackRF sweep waterfall captures document SDR observation work in the DJI Mavic Air 2 / RC-N1 controller operating bands. The public `hackrf_sweep` workflow was used to sweep the 2.4 GHz and 5 GHz controller frequency ranges while the controller and aircraft moved through visible operating states.
 
-The supporting images show repeatable RF emission pattern changes between controller-only, aircraft-on, and linked controller/aircraft communication states. This supports a spectrum-level finding that the DJI link presents distinct RF signatures across operating states. It is not presented as decoded protocol evidence, packet attribution, Remote ID analysis, or proof of command/video/telemetry contents.
+The supporting images show repeatable RF emission pattern changes between controller-only, aircraft-on, and linked controller/aircraft communication states. The takeaway is intentionally narrow: the DJI link presents distinct RF signatures across operating states at the spectrum/waterfall level. This is not decoded protocol traffic, packet attribution, Remote ID analysis, or proof of command/video/telemetry contents.
 
 <img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-01.jpg" alt="HackRF sweep Mavic Air 2 2.4 GHz and 5 GHz spectrum observation, 2024-09-14" width="48%"> <img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-02.jpg" alt="HackRF sweep Mavic Air 2 alternate spectrum observation, 2024-09-14" width="48%">
 
@@ -66,17 +66,17 @@ The supporting images show repeatable RF emission pattern changes between contro
 
 ### Embedded Electronics
 
-PCB inspection, breadboard work, and teardown photos show electronics fluency relevant to systems integration.
+PCB inspection, breadboard work, and teardown photos cover the electronics bench work behind the interface projects.
 
 #### Custom Audio/PTT Interface Development
 
-Breadboard, bench-note, and microscope evidence documents custom audio/PTT interface development for Motorola XTVA integration. A DB25 breakout connector connects to the Motorola XTVA and exposes speaker, microphone, and PTT lines for bench testing and interface development. The microscope images show the PCB side of the same audio/PTT interface, including close inspection of signal labels and small board features.
+Breadboard, bench-note, and microscope images document custom audio/PTT interface development for Motorola XTVA integration. A DB25 breakout connector connects to the Motorola XTVA and exposes speaker, microphone, and PTT lines for bench testing and interface development. The microscope images show the PCB side of the same audio/PTT interface, including close inspection of signal labels and small board features.
 
 <img src="assets/arduino-breadboard-electronics-notes-2022-10-16-01.jpg" alt="Arduino breadboard audio and PTT interface development notes, 2022-10-16" width="48%"> <img src="assets/arduino-breadboard-electronics-notes-2022-10-16-02.jpg" alt="Breadboard interface development notes and wiring, 2022-10-16" width="48%">
 
 <img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-01.jpg" alt="Microscope view of the PCB side of the audio/PTT interface, 2022-10-30" width="48%"> <img src="assets/microscope-pcb-electronics-inspection-setup-2022-10-30-02.jpg" alt="Microscope close-up of audio/PTT interface PCB signal labels, 2022-10-30" width="48%">
 
-## Current Evidence
+## Current Media
 
 - Active media assets: 46
 - JPG stills: 44
