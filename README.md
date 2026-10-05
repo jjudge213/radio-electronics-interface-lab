@@ -11,6 +11,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
 - Built a custom EFJohnson 5300 interface cable from a handmic connector using reference documentation, connector inspection, and bench verification.
 - Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
+- Designed and assembled a pole-mounted VHF/UHF dipole antenna fixture using a BNC-to-banana adapter clamped between PVC sections.
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
 
@@ -20,6 +21,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Modified a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while preserving original serial-cable functionality.
 - Built an EFJohnson 5300 interface cable using reference documentation, connector inspection, and bench-level fabrication practices.
 - Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
+- Designed a 3D-printed clamp/fixture for a pole-mounted VHF/UHF dipole antenna using PVC sections, 12 AWG wire elements, and a BNC-to-banana adapter feedpoint.
 - Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
 
 ## Interface / RF / Bench Map
@@ -31,6 +33,7 @@ flowchart TD
     audio --> bench[Breadboard and microscope bench work]
     radio --> manpack[Manpack frame and panel development]
     rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
+    rf --> antenna[VHF/UHF antenna fixture]
     sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
 ```
 
@@ -92,6 +95,24 @@ This GNU Radio Companion flowgraph documents audio-source signal processing work
 
 <img src="assets/gnuradio-audio-filter-flowgraph-2023-08-02-01.jpg" alt="GNU Radio audio filtering and visualization flowgraph, 2023-08-02" width="75%">
 
+#### Pole-Mounted VHF/UHF Dipole Antenna Fixture
+
+This sequence documents an improvised VHF/UHF dipole antenna fixture built around a BNC-to-banana adapter feedpoint. The adapter is clamped between two PVC pole sections, with wire elements supported from the printed clamp body. The value here is the design and fitment workflow: CAD modeling, printed clamp assembly, feedpoint placement, and physical pole fitment.
+
+<img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-01.jpg" alt="CAD model for PVC clamp body used in VHF/UHF dipole antenna fixture" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-02.jpg" alt="CAD side view showing BNC-to-banana adapter feedpoint clamped in antenna fixture" width="48%">
+
+<img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-03.jpg" alt="CAD top view of pole-mounted dipole antenna clamp and PVC opening" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-assembly-2025-03-13-01.jpg" alt="Assembly of printed PVC clamp body for improvised VHF/UHF dipole" width="48%">
+
+<img src="assets/vhf-uhf-dipole-pvc-clamp-assembly-2025-03-13-02.jpg" alt="Fastening the printed clamp body for BNC-to-banana dipole feedpoint" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-printed-body-2025-03-13-01.jpg" alt="Printed antenna clamp body showing PVC and feedpoint openings" width="48%">
+
+<img src="assets/vhf-uhf-dipole-pvc-clamp-printed-body-2025-03-13-02.jpg" alt="Alternate view of printed clamp body for pole-mounted dipole fixture" width="48%"> <img src="assets/vhf-uhf-dipole-bnc-banana-adapter-2025-03-13-01.jpg" alt="BNC-to-banana adapter positioned in the printed dipole antenna clamp" width="48%">
+
+<img src="assets/vhf-uhf-dipole-wire-element-fitment-2025-03-13-01.jpg" alt="Wire dipole element fitment through BNC-to-banana adapter fixture" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-01.jpg" alt="PVC pole fitment for improvised VHF/UHF dipole antenna" width="48%">
+
+<img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%"> <img src="assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="48%">
+
+This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim. A separate NanoVNA/SWR result should be added only when the measurement screen can be presented without private context and with a clear test setup note.
+
 #### DJI Mavic Air 2 / RC-N1 Spectrum Observation
 
 HackRF sweep waterfall captures document SDR observation work in the DJI Mavic Air 2 / RC-N1 controller operating bands. The public `hackrf_sweep` workflow was used to sweep the 2.4 GHz and 5 GHz controller frequency ranges while the controller and aircraft moved through visible operating states.
@@ -116,8 +137,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 46
-- JPG stills: 44
+- Active media assets: 60
+- JPG stills: 56
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 
