@@ -38,6 +38,13 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/aviation-tracking-2025-06-16-01.jpg" alt="aviation tracking 2025 06 16 01" width="48%">
 
+## GNU Radio Audio Filtering Flowgraph
+
+- Source: Private source archive; cropped public-safe derivative.
+- Notes: GNU Radio Companion flowgraph showing audio-source signal processing with band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output.
+
+<img src="../assets/gnuradio-audio-filter-flowgraph-2023-08-02-01.jpg" alt="GNU Radio audio filtering and visualization flowgraph, 2023-08-02" width="75%">
+
 ## Motorola XTS Cable Modifications
 
 - Source: Private source archive; public-safe derivative

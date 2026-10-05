@@ -84,7 +84,13 @@ This section follows a UHF/EFJohnson manpack development path: a plastic 3D-prin
 
 ### SDR/RF
 
-HackRF spectrum captures and aviation-tracking work provide RF context without presenting this as formal test-lab coverage.
+GNU Radio flowgraph work, HackRF spectrum captures, and aviation-tracking work provide RF context without presenting this as formal test-lab coverage.
+
+#### GNU Radio Audio Filtering Flowgraph
+
+This GNU Radio Companion flowgraph documents audio-source signal processing work: band-pass filtering, low-frequency hum rejection, RMS measurement, spectrum visualization, and audio output. It fits the repo as SDR/RF-adjacent bench work because it shows practical signal-chain construction before moving into RF capture and spectrum-observation examples.
+
+<img src="assets/gnuradio-audio-filter-flowgraph-2023-08-02-01.jpg" alt="GNU Radio audio filtering and visualization flowgraph, 2023-08-02" width="75%">
 
 #### DJI Mavic Air 2 / RC-N1 Spectrum Observation
 
