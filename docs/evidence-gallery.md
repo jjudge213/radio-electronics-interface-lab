@@ -88,6 +88,18 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="efjohnson 5300 interface display workflow 2024 09 24" width="48%">
 
+## EFJohnson 5300 ES Accessory Test Board
+
+- Source: Private source archive; public-safe derivative.
+- Notes: accessory-connector breakout/test board for EFJohnson 5300 ES audio/PTT bench testing, with screw terminals and test wiring for controlled interface work.
+- Boundary: radio labels/barcodes and protected programming details are redacted or omitted.
+
+<img src="../assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%"> <img src="../assets/efjohnson-5300es-accessory-audio-ptt-radio-test-2025-12-03-01.jpg" alt="EFJohnson 5300 ES radio-side audio/PTT test setup with sensitive labels redacted" width="48%">
+
+<img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-01.jpg" alt="EFJohnson 5300 ES accessory breakout test board parts and printed carrier" width="48%"> <img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-02.jpg" alt="EFJohnson 5300 ES accessory breakout board mounted on printed carrier" width="48%">
+
+<img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-03.jpg" alt="EFJohnson 5300 ES accessory breakout board with test wiring installed" width="48%"> <img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-04.jpg" alt="EFJohnson 5300 ES accessory breakout board connected to test harness" width="48%">
+
 ## UHF Manpack Development
 
 - Source: Private source archive.

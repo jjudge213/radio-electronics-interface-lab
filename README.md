@@ -10,6 +10,7 @@ This repo collects the physical and electrical layer work that supports the radi
 
 - Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
 - Built a custom EFJohnson 5300 interface cable from a handmic connector using reference documentation, connector inspection, and bench verification.
+- Built an EFJohnson 5300 ES accessory-connector breakout/test board for bench access to audio/PTT lines during interface testing.
 - Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
 - Designed and assembled a pole-mounted VHF/UHF dipole antenna fixture using a BNC-to-banana adapter clamped between PVC sections.
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
@@ -20,6 +21,7 @@ This repo collects the physical and electrical layer work that supports the radi
 - Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and accessory-interface paths.
 - Modified a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while preserving original serial-cable functionality.
 - Built an EFJohnson 5300 interface cable using reference documentation, connector inspection, and bench-level fabrication practices.
+- Built an EFJohnson 5300 ES accessory-connector breakout/test board to expose audio/PTT lines for controlled bench testing.
 - Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
 - Designed a 3D-printed clamp/fixture for a pole-mounted VHF/UHF dipole antenna using PVC sections, 12 AWG wire elements, and a BNC-to-banana adapter feedpoint.
 - Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
@@ -70,6 +72,16 @@ This custom interface cable was built for the EFJohnson 5300 series radio using 
 <img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom interface cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom interface cable completed lead, 2024-09-24" width="48%">
 
 <img src="assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="EFJohnson 5300 interface display workflow, 2024-09-24" width="48%">
+
+#### EFJohnson 5300 ES Accessory Test Board
+
+This sequence documents a small test board for the EFJohnson 5300 ES accessory connector. The board exposes audio/PTT-related lines to screw terminals and test points so the interface can be exercised on the bench before committing to a finished cable or enclosure. The public version shows board construction and bench setup only; radio labels/barcodes and protected programming details are redacted or omitted.
+
+<img src="assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%"> <img src="assets/efjohnson-5300es-accessory-audio-ptt-radio-test-2025-12-03-01.jpg" alt="EFJohnson 5300 ES radio-side audio/PTT test setup with sensitive labels redacted" width="48%">
+
+<img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-01.jpg" alt="EFJohnson 5300 ES accessory breakout test board parts and printed carrier" width="48%"> <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-02.jpg" alt="EFJohnson 5300 ES accessory breakout board mounted on printed carrier" width="48%">
+
+<img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-03.jpg" alt="EFJohnson 5300 ES accessory breakout board with test wiring installed" width="48%"> <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-04.jpg" alt="EFJohnson 5300 ES accessory breakout board connected to test harness" width="48%">
 
 ### UHF Manpack Development
 
@@ -137,8 +149,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 60
-- JPG stills: 56
+- Active media assets: 66
+- JPG stills: 64
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 
