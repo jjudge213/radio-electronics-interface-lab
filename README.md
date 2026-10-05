@@ -2,18 +2,16 @@
 
 Public-safe project collection for radio interfaces, cable work, SDR/RF, and electronics bench projects.
 
-## Interface / RF / Bench Map
-
 ```mermaid
 flowchart TD
-    radio[Radio platforms] --> cable[Cable and connector work]
-    cable --> audio[Audio / PTT / accessory interfaces]
-    audio --> bench[Breadboard and microscope bench work]
-    radio --> manpack[Manpack frame and panel development]
-    rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
-    rf --> antenna[VHF/UHF antenna fixture]
-    antenna --> nanovna[NanoVNA antenna and sweep checks]
-    sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
+    radio["Radio platforms"] --> cable["Cable and connector work"]
+    cable --> audio["Audio, PTT, and accessory interfaces"]
+    audio --> bench["Breadboard and microscope bench work"]
+    radio --> manpack["Manpack frame and panel development"]
+    rf["SDR and RF tools"] --> sweep["HackRF spectrum observation"]
+    rf --> antenna["VHF and UHF antenna fixture"]
+    antenna --> nanovna["NanoVNA antenna and sweep checks"]
+    sweep --> notes["Bounded RF findings - no decoded protocol claims"]
 ```
 
 ## Purpose
