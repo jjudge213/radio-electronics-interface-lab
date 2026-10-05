@@ -75,9 +75,9 @@ This custom interface cable was built for the EFJohnson 5300 series radio using 
 
 #### EFJohnson 5300 ES Accessory Test Board
 
-This sequence documents a small test board for the EFJohnson 5300 ES accessory connector. The board exposes audio/PTT-related lines to screw terminals and test points so the interface can be exercised on the bench before committing to a finished cable or enclosure. The public version shows board construction and bench setup only; radio labels/barcodes and protected programming details are redacted or omitted.
+This sequence documents a small test board for the EFJohnson 5300 ES accessory connector. The board exposes audio/PTT-related lines to screw terminals and test points so the interface can be exercised on the bench before committing to a finished cable or enclosure. The public version shows cable, board construction, and bench setup only; radio labels/barcodes and protected programming details are omitted.
 
-<img src="assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%"> <img src="assets/efjohnson-5300es-accessory-audio-ptt-radio-test-2025-12-03-01.jpg" alt="EFJohnson 5300 ES radio-side audio/PTT test setup with sensitive labels redacted" width="48%">
+<img src="assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%">
 
 <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-01.jpg" alt="EFJohnson 5300 ES accessory breakout test board parts and printed carrier" width="48%"> <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-02.jpg" alt="EFJohnson 5300 ES accessory breakout board mounted on printed carrier" width="48%">
 
@@ -149,8 +149,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 66
-- JPG stills: 64
+- Active media assets: 65
+- JPG stills: 63
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 
