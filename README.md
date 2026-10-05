@@ -114,11 +114,17 @@ This GNU Radio Companion flowgraph documents audio-source signal processing work
 
 #### Pole-Mounted VHF/UHF Dipole Antenna Fixture
 
-This sequence documents the CAD design for an improvised VHF/UHF dipole antenna fixture built around a BNC-to-banana adapter feedpoint. The public section keeps the clean design views only; earlier physical fitment photos were removed because their background was not appropriate for the portfolio.
+This sequence documents an improvised VHF/UHF dipole antenna fixture built around a BNC-to-banana adapter feedpoint. The adapter is clamped between two PVC pole sections, with wire elements supported from the printed clamp body. Four close-up assembly photos with undesirable background context were removed; the remaining public set keeps the clean CAD, feedpoint, wire-element, and pole-fitment views.
 
 <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-01.jpg" alt="CAD model for PVC clamp body used in VHF/UHF dipole antenna fixture" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-02.jpg" alt="CAD side view showing BNC-to-banana adapter feedpoint clamped in antenna fixture" width="48%">
 
 <img src="assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-03.jpg" alt="CAD top view of pole-mounted dipole antenna clamp and PVC opening" width="75%">
+
+<img src="assets/vhf-uhf-dipole-bnc-banana-adapter-2025-03-13-01.jpg" alt="BNC-to-banana adapter positioned in the printed dipole antenna clamp" width="48%"> <img src="assets/vhf-uhf-dipole-wire-element-fitment-2025-03-13-01.jpg" alt="Wire dipole element fitment through BNC-to-banana adapter fixture" width="48%">
+
+<img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-01.jpg" alt="PVC pole fitment for improvised VHF/UHF dipole antenna" width="48%"> <img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%">
+
+<img src="assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="75%">
 
 This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim.
 
@@ -160,8 +166,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 64
-- JPG stills: 62
+- Active media assets: 69
+- JPG stills: 67
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 

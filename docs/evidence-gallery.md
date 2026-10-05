@@ -50,12 +50,18 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 ## Pole-Mounted VHF/UHF Dipole Antenna Fixture
 
 - Source: Private source archive; public-safe derivative.
-- Notes: CAD design for an improvised VHF/UHF dipole antenna fixture using a BNC-to-banana adapter feedpoint clamped between PVC pole sections.
-- Boundary: this section keeps the clean CAD design views only. Physical fitment photos were removed because their background was not appropriate for the public portfolio, and no measured antenna-performance claim is made.
+- Notes: improvised VHF/UHF dipole antenna fixture using a BNC-to-banana adapter feedpoint clamped between PVC pole sections, with wire elements mounted through the adapter.
+- Boundary: four close-up assembly photos with undesirable background context were removed. The remaining public set keeps the clean CAD, feedpoint, wire-element, and pole-fitment views, and no measured antenna-performance claim is made.
 
 <img src="../assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-01.jpg" alt="CAD model for PVC clamp body used in VHF/UHF dipole antenna fixture" width="48%"> <img src="../assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-02.jpg" alt="CAD side view showing BNC-to-banana adapter feedpoint clamped in antenna fixture" width="48%">
 
 <img src="../assets/vhf-uhf-dipole-pvc-clamp-cad-2025-03-12-03.jpg" alt="CAD top view of pole-mounted dipole antenna clamp and PVC opening" width="75%">
+
+<img src="../assets/vhf-uhf-dipole-bnc-banana-adapter-2025-03-13-01.jpg" alt="BNC-to-banana adapter positioned in the printed dipole antenna clamp" width="48%"> <img src="../assets/vhf-uhf-dipole-wire-element-fitment-2025-03-13-01.jpg" alt="Wire dipole element fitment through BNC-to-banana adapter fixture" width="48%">
+
+<img src="../assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-01.jpg" alt="PVC pole fitment for improvised VHF/UHF dipole antenna" width="48%"> <img src="../assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%">
+
+<img src="../assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="75%">
 
 ## NanoVNA Antenna And RF Measurement Work
 
