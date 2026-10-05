@@ -24,19 +24,19 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-03.jpg" alt="phone pcb teardown and power wiring sequence 2022 01 22 03" width="48%"> <img src="../assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-04.jpg" alt="phone pcb teardown and power wiring sequence 2022 01 22 04" width="48%">
 
-<img src="../assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg" alt="phone pcb teardown and power wiring sequence 2022 01 22 05" width="48%">
+<img src="../assets/phone-pcb-teardown-and-power-wiring-sequence-2022-01-22-05.jpg" alt="phone pcb teardown and power wiring sequence 2022 01 22 05" width="75%">
 
 ## Handheld Radio Scanner Security Device On Table
 
 - Source: Private source archive; public-safe derivative
 
-<img src="../assets/handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg" alt="handheld radio scanner security device on table 2024 04 07 01" width="48%">
+<img src="../assets/handheld-radio-scanner-security-device-on-table-2024-04-07-01.jpg" alt="handheld radio scanner security device on table 2024 04 07 01" width="75%">
 
 ## Aviation Tracking
 
 - Source: Private source archive; public-safe derivative
 
-<img src="../assets/aviation-tracking-2025-06-16-01.jpg" alt="aviation tracking 2025 06 16 01" width="48%">
+<img src="../assets/aviation-tracking-2025-06-16-01.jpg" alt="aviation tracking 2025 06 16 01" width="75%">
 
 ## GNU Radio Audio Filtering And Baseband Monitor Work
 
@@ -86,7 +86,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/connector-soldering-2024-09-14-03.jpg" alt="motorola xts cable modification soldering 2024 09 14 03" width="48%"> <img src="../assets/connector-soldering-2024-09-14-04.jpg" alt="motorola xts cable modification soldering 2024 09 14 04" width="48%">
 
-<img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="motorola xts cable modification soldering 2024 09 14 05" width="48%">
+<img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="motorola xts cable modification soldering 2024 09 14 05" width="75%">
 
 <img src="../assets/motorola-xts-digirig-audio-ptt-interface-diagram-2026-05-24-01.jpg" alt="Motorola XTS Digirig audio and PTT interface diagram, 2026-05-24" width="75%">
 
@@ -100,7 +100,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="custom radio interface cable 2024 09 24 01" width="48%"> <img src="../assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="custom radio interface cable 2024 09 24 02" width="48%">
 
-<img src="../assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="efjohnson 5300 interface display workflow 2024 09 24" width="48%">
+<img src="../assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="efjohnson 5300 interface display workflow 2024 09 24" width="75%">
 
 ## EFJohnson 5300 ES Accessory Test Board
 
@@ -108,7 +108,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 - Notes: accessory-connector breakout/test board for EFJohnson 5300 ES audio/PTT bench testing, with screw terminals and test wiring for controlled interface work.
 - Boundary: radio labels/barcodes and protected programming details are omitted.
 
-<img src="../assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%">
+<img src="../assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="75%">
 
 <img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-01.jpg" alt="EFJohnson 5300 ES accessory breakout test board parts and printed carrier" width="48%"> <img src="../assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-02.jpg" alt="EFJohnson 5300 ES accessory breakout board mounted on printed carrier" width="48%">
 
@@ -135,7 +135,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 - Source: Private source archive; public-safe derivative
 - Notes: HackRF/spectrum waterfall observation of DJI Mavic Air 2 / RC-N1 activity in the 5 GHz controller band. This supports a spectrum-level RF signature comparison between operating states; it is not decoded protocol or packet-content evidence.
 
-<img src="../assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="mavic air 2 5ghz spectrum 2024 09 15 01" width="48%">
+<img src="../assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="mavic air 2 5ghz spectrum 2024 09 15 01" width="75%">
 
 ## Hackrf Sweep Mavic Air 2
 
@@ -153,7 +153,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/connector-soldering-2024-09-14-03.jpg" alt="connector soldering 2024 09 14 03" width="48%"> <img src="../assets/connector-soldering-2024-09-14-04.jpg" alt="connector soldering 2024 09 14 04" width="48%">
 
-<img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="connector soldering 2024 09 14 05" width="48%">
+<img src="../assets/connector-soldering-2024-09-14-05.jpg" alt="connector soldering 2024 09 14 05" width="75%">
 
 ## Motorola XTS Cable Modification Connector Parts
 
@@ -168,7 +168,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 - Source: Private source archive; public-safe derivative
 
-<img src="../assets/blue-mat-bench-wiring-2024-09-03-01.jpg" alt="blue mat bench wiring 2024 09 03 01" width="48%">
+<img src="../assets/blue-mat-bench-wiring-2024-09-03-01.jpg" alt="blue mat bench wiring 2024 09 03 01" width="75%">
 
 ## Hackrf Portable Battery
 

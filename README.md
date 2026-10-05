@@ -60,7 +60,7 @@ This section documents modification of a Motorola XTS serial cable to expose mic
 
 <img src="assets/connector-soldering-2024-09-14-03.jpg" alt="Motorola XTS cable modification wire preparation, 2024-09-14" width="48%"> <img src="assets/connector-soldering-2024-09-14-04.jpg" alt="Motorola XTS cable modification connector assembly, 2024-09-14" width="48%">
 
-<img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="48%">
+<img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="75%">
 
 The interface diagram below captures the audio/PTT endpoint for the same Motorola XTS workflow: a Digirig-style audio lead mapped to radio microphone connector signals for speaker audio, microphone audio, PTT, and ground.
 
@@ -74,13 +74,13 @@ This custom interface cable was built for the EFJohnson 5300 series radio using 
 
 <img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom interface cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom interface cable completed lead, 2024-09-24" width="48%">
 
-<img src="assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="EFJohnson 5300 interface display workflow, 2024-09-24" width="48%">
+<img src="assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="EFJohnson 5300 interface display workflow, 2024-09-24" width="75%">
 
 #### EFJohnson 5300 ES Accessory Test Board
 
 This sequence documents a small test board for the EFJohnson 5300 ES accessory connector. The board exposes audio/PTT-related lines to screw terminals and test points so the interface can be exercised on the bench before committing to a finished cable or enclosure. The public version shows cable, board construction, and bench setup only; radio labels/barcodes and protected programming details are omitted.
 
-<img src="assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="48%">
+<img src="assets/efjohnson-5300es-accessory-audio-ptt-test-cable-2025-12-03-01.jpg" alt="EFJohnson 5300 ES accessory audio/PTT test cable with breakout connector" width="75%">
 
 <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-01.jpg" alt="EFJohnson 5300 ES accessory breakout test board parts and printed carrier" width="48%"> <img src="assets/efjohnson-5300es-accessory-breakout-test-board-2026-01-05-02.jpg" alt="EFJohnson 5300 ES accessory breakout board mounted on printed carrier" width="48%">
 
@@ -150,7 +150,7 @@ The supporting images show repeatable RF emission pattern changes between contro
 
 <img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-01.jpg" alt="HackRF sweep Mavic Air 2 2.4 GHz and 5 GHz spectrum observation, 2024-09-14" width="48%"> <img src="assets/hackrf-sweep-mavic-air-2-2024-09-14-02.jpg" alt="HackRF sweep Mavic Air 2 alternate spectrum observation, 2024-09-14" width="48%">
 
-<img src="assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="Mavic Air 2 5 GHz spectrum waterfall observation, 2024-09-15" width="48%">
+<img src="assets/mavic-air-2-5ghz-spectrum-2024-09-15-01.jpg" alt="Mavic Air 2 5 GHz spectrum waterfall observation, 2024-09-15" width="75%">
 
 ### Embedded Electronics
 
