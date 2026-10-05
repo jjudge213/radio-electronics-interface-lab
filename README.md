@@ -9,16 +9,16 @@ This repo collects the physical and electrical layer work that supports the radi
 ## Key Results
 
 - Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
-- Built a custom EFJohnson 5300 keyfill cable from a handmic connector using service-manual pinout research.
+- Built a custom EFJohnson 5300 interface cable from a handmic connector using reference documentation, connector inspection, and bench verification.
 - Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
 
 ## Resume Bullets
 
-- Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and keyfill paths.
+- Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and accessory-interface paths.
 - Modified a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while preserving original serial-cable functionality.
-- Built an EFJohnson 5300 keyfill cable using service-manual pinout research, connector inspection, and bench-level fabrication practices.
+- Built an EFJohnson 5300 interface cable using reference documentation, connector inspection, and bench-level fabrication practices.
 - Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
 - Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
 
@@ -27,7 +27,7 @@ This repo collects the physical and electrical layer work that supports the radi
 ```mermaid
 flowchart TD
     radio[Radio platforms] --> cable[Cable and connector work]
-    cable --> audio[Audio / PTT / keyfill interfaces]
+    cable --> audio[Audio / PTT / accessory interfaces]
     audio --> bench[Breadboard and microscope bench work]
     radio --> manpack[Manpack frame and panel development]
     rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
@@ -54,15 +54,15 @@ This section documents modification of a Motorola XTS serial cable to expose mic
 
 <img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="48%">
 
-#### EFJohnson 5300 Keyfill Cable
+#### EFJohnson 5300 Interface Cable
 
-This custom keyfill cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The pinout was derived from the EFJohnson 5300 service manual.
+This custom interface cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The public write-up is limited to fabrication, connector inspection, and bench-verification workflow; manufacturer manual pages, proprietary pinout tables, key material, and programming details are not reproduced.
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
-<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom keyfill cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom keyfill cable completed lead, 2024-09-24" width="48%">
+<img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom interface cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom interface cable completed lead, 2024-09-24" width="48%">
 
-<img src="assets/efjohnson-5300-keyfill-display-2024-09-24-01.gif" alt="EFJohnson 5300 keyfill display workflow, 2024-09-24" width="48%">
+<img src="assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="EFJohnson 5300 interface display workflow, 2024-09-24" width="48%">
 
 ### UHF Manpack Development
 
