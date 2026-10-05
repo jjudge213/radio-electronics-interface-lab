@@ -36,6 +36,7 @@ flowchart TD
     radio --> manpack[Manpack frame and panel development]
     rf[SDR/RF tools] --> sweep[HackRF spectrum observation]
     rf --> antenna[VHF/UHF antenna fixture]
+    antenna --> nanovna[NanoVNA improvised antenna check]
     sweep --> notes[Bounded RF findings<br/>no decoded protocol claims]
 ```
 
@@ -123,7 +124,13 @@ This sequence documents an improvised VHF/UHF dipole antenna fixture built aroun
 
 <img src="assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%"> <img src="assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="48%">
 
-This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim. A separate NanoVNA/SWR result should be added only when the measurement screen can be presented without private context and with a clear test setup note.
+This is documented as antenna prototyping and mechanical fixture design, not as a published performance claim.
+
+#### NanoVNA Improvised Antenna Check
+
+This image documents bench experimentation with a NanoVNA connected to an improvised antenna made from a BNC-to-banana adapter and 12 AWG wire elements. It is included as setup and test-equipment evidence for antenna iteration, not as a formal antenna-performance result.
+
+<img src="assets/nanovna-bnc-banana-12awg-dipole-test-2023-06-26-01.jpg" alt="NanoVNA connected to improvised BNC-to-banana adapter and 12 AWG wire antenna test setup" width="75%">
 
 #### DJI Mavic Air 2 / RC-N1 Spectrum Observation
 
@@ -149,8 +156,8 @@ Breadboard, bench-note, and microscope images document custom audio/PTT interfac
 
 ## Current Media
 
-- Active media assets: 65
-- JPG stills: 63
+- Active media assets: 66
+- JPG stills: 64
 - Animated GIFs: 2
 - Source posture: public-safe derivatives only; source material and sensitive details remain out of scope.
 

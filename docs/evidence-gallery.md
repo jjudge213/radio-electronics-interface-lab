@@ -63,6 +63,14 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/vhf-uhf-dipole-pvc-pole-fitment-2025-03-13-02.jpg" alt="Pole-mounted VHF/UHF dipole fixture with wire element visible" width="48%"> <img src="../assets/vhf-uhf-dipole-clamp-closeup-2025-03-13-01.jpg" alt="Close-up of printed clamp securing PVC section and dipole feedpoint" width="48%">
 
+## NanoVNA Improvised Antenna Check
+
+- Source: Private source archive; cropped public-safe derivative.
+- Notes: NanoVNA connected to an improvised antenna made from a BNC-to-banana adapter and 12 AWG wire elements.
+- Boundary: included as setup and test-equipment evidence for antenna iteration, not as a formal antenna-performance result.
+
+<img src="../assets/nanovna-bnc-banana-12awg-dipole-test-2023-06-26-01.jpg" alt="NanoVNA connected to improvised BNC-to-banana adapter and 12 AWG wire antenna test setup" width="75%">
+
 ## Motorola XTS Cable Modifications
 
 - Source: Private source archive; public-safe derivative
