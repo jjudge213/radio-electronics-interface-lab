@@ -16,35 +16,25 @@ flowchart TD
 
 ## Purpose
 
-This repo collects the physical and electrical layer work that supports the radio and TAK projects: connectors, soldering, SDR/RF work, embedded electronics, and bench-level interface development.
+Bench and interface work behind the radio projects: cable modification, audio/PTT breakout, accessory-interface fabrication, SDR/RF experimentation, antenna measurement, and electronics inspection. The repo shows hands-on physical-layer capability without publishing protected radio programming or proprietary details.
 
 ## Key Results
 
-- Modified a Motorola XTS serial cable to expose speaker, microphone, and PTT lines while preserving serial-cable functionality.
-- Built a custom EFJohnson 5300 interface cable from a handmic connector using reference documentation, connector inspection, and bench verification.
-- Built an EFJohnson 5300 ES accessory-connector breakout/test board for bench access to audio/PTT lines during interface testing.
-- Developed a Motorola XTVA audio/PTT breakout path using DB25 breakout wiring, breadboard work, and PCB-side inspection.
-- Designed a pole-mounted VHF/UHF dipole antenna fixture concept using a BNC-to-banana adapter clamped between PVC sections.
-- Used NanoVNA handheld and PC software views to document antenna iteration, VHF/UHF sweep behavior, Smith-chart views, and VSWR/return-loss context.
-- Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
-- Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
+- Modified Motorola XTS cabling to expose speaker, microphone, and PTT paths.
+- Built EFJohnson 5300 and 5300 ES interface/test-board hardware.
+- Documented Motorola XTVA DB25 audio/PTT breakout and PCB-side inspection.
+- Added NanoVNA, GNU Radio, HackRF, and antenna-fixture work as RF/test-equipment evidence.
+- Kept manuals, proprietary pinouts, labels, keys, codeplugs, and sensitive RF details out of scope.
 
 ## Project Outcomes
 
-This repo shows the bench and interface work behind the radio projects: connector modification, audio/PTT breakouts, accessory-interface cabling, EFJohnson test-board work, NanoVNA antenna checks, GNU Radio signal workflows, HackRF spectrum observation, and early manpack hardware concepts. The value is the range of physical-layer work, not any single finished product.
-
-The public write-up deliberately avoids manual pages, proprietary pinout tables, radio labels, key material, codeplugs, and sensitive RF details. The next useful additions are short bench-verification notes for continuity, audio/PTT behavior, strain relief, and RF measurement workflow where those can be shown cleanly.
+The repo shows breadth across the physical radio stack: connectors, soldering, audio/PTT paths, bench fixtures, RF tools, and public-safe documentation. It is not trying to present one finished product; it shows the supporting interface and measurement work behind the larger tactical-radio portfolio.
 
 ## Resume Bullets
 
-- Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and accessory-interface paths.
-- Modified a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while preserving original serial-cable functionality.
-- Built an EFJohnson 5300 interface cable using reference documentation, connector inspection, and bench-level fabrication practices.
-- Built an EFJohnson 5300 ES accessory-connector breakout/test board to expose audio/PTT lines for controlled bench testing.
-- Developed Motorola XTVA audio/PTT interface concepts using DB25 breakout wiring, breadboard validation, and microscope inspection of the PCB-side interface.
-- Designed a 3D-printed clamp/fixture for a pole-mounted VHF/UHF dipole antenna using PVC sections, 12 AWG wire elements, and a BNC-to-banana adapter feedpoint.
-- Used NanoVNA and NanoVNA Saver software to inspect antenna behavior with Smith-chart, VSWR, return-loss, and sweep views during RF experimentation.
-- Used HackRF spectrum/waterfall observation to document DJI Mavic Air 2 / RC-N1 RF link-state changes while clearly limiting claims to spectrum-level behavior.
+- Fabricated and modified Motorola, EFJohnson, and related P25 radio-interface cabling, including audio/PTT and accessory-interface paths.
+- Built EFJohnson accessory breakout/test hardware and Motorola XTS/Digirig-style audio/PTT documentation.
+- Used NanoVNA, GNU Radio, HackRF, microscope inspection, and bench wiring to document RF/electronics troubleshooting workflows.
 
 ## Project Sections
 
@@ -72,7 +62,7 @@ The interface diagram below captures the audio/PTT endpoint for the same Motorol
 
 #### EFJohnson 5300 Interface Cable
 
-This custom interface cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The public write-up is limited to fabrication, connector inspection, and bench-verification workflow; manufacturer manual pages, proprietary pinout tables, key material, and programming details are not reproduced.
+This custom interface cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The public write-up is limited to fabrication, connector inspection, and bench-verification workflow; manufacturer manual pages, proprietary pinout material, key material, and programming details are not reproduced.
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
