@@ -62,7 +62,7 @@ The interface diagram below captures the audio/PTT endpoint for the same Motorol
 
 #### EFJohnson 5300 Interface Cable
 
-This custom interface cable was built for the EFJohnson 5300 series radio after reviewing the service documentation for the hand-microphone connector, ground, keyfill, and connected-accessory identification behavior. The mating connector and pins were identified and sourced from DigiKey, then a proof-of-concept connector was populated with pins and jumper wires to find the accessory-selection configuration that placed the radio into key-loading mode. The finished cable terminates to a 1/8 TRS end suitable for the open-source KFDtool keyfill-device workflow.
+This custom interface cable was built for the EFJohnson 5300 series radio after reviewing the service documentation for the hand-microphone connector, ground, keyfill, and connected-accessory identification behavior. The mating connector and pins were identified and sourced from DigiKey, then a proof-of-concept connector was populated with pins and jumper wires to find the accessory-selection configuration that placed the radio into key-loading mode. The finished cable terminates to a 1/8 TRS end for use with [KFDtool](https://github.com/KFDtool/KFDtool), an open-source P25 Key Fill Device / keyloader project that supports P25 manual rekeying workflows.
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
