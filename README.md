@@ -29,6 +29,16 @@ This repo collects the physical and electrical layer work that supports the radi
 - Captured HackRF waterfall/sweep observations of DJI Mavic Air 2 / RC-N1 link-state changes at the spectrum level.
 - Built and fit early UHF/EFJohnson manpack hardware concepts, including frame, antenna/power panel, and carry-system fitment.
 
+## Project Outcomes
+
+| Area | Status | Public-safe takeaway |
+|---|---|---|
+| Configured | Documented where safe | GNU Radio, NanoVNA/NanoVNA Saver, HackRF, and radio-interface workflows are shown without operational radio programming or protected data. |
+| Fabricated | Documented | Motorola XTS cable modifications, EFJohnson interface cabling, EFJohnson 5300 ES breakout board, antenna fixture work, and manpack hardware concepts are represented. |
+| Tested | Documented | Bench/interface testing, RF sweep observation, NanoVNA antenna checks, and baseband/audio signal workflow screenshots are included as bounded evidence. |
+| Constraint found | Documented | Public writeups avoid manual pages, proprietary pinout tables, radio labels, key material, codeplugs, and sensitive RF details. |
+| Planned next work | Open | Add cleaner bench-check checklists for continuity, audio/PTT verification, strain relief, and RF measurement workflow as public-safe notes. |
+
 ## Resume Bullets
 
 - Fabricated and modified radio interface cabling for Motorola, EFJohnson, and related P25 radio workflows, including audio/PTT and accessory-interface paths.
