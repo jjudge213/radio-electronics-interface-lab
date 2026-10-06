@@ -20,19 +20,19 @@ Bench and interface work behind the radio projects: cable modification, audio/PT
 
 ## Key Results
 
-- Modified Motorola XTS cabling to expose speaker, microphone, and PTT paths.
-- Built EFJohnson 5300 and 5300 ES interface/test-board hardware.
+- Modified Motorola XTS cabling to expose speaker, microphone, and PTT paths while preserving the original programming-cable workflow.
+- Built EFJohnson 5300 keyfill/interface cabling and 5300 ES accessory test-board hardware.
 - Documented Motorola XTVA DB25 audio/PTT breakout and PCB-side inspection.
 - Added NanoVNA, GNU Radio, HackRF, and antenna-fixture work as RF/test-equipment evidence.
 - Kept manuals, proprietary pinouts, labels, keys, codeplugs, and sensitive RF details out of scope.
 
 ## Project Outcomes
 
-The repo shows breadth across the physical radio stack: connectors, soldering, audio/PTT paths, bench fixtures, RF tools, and public-safe documentation. It is not trying to present one finished product; it shows the supporting interface and measurement work behind the larger tactical-radio portfolio.
+The repo shows breadth across the physical radio stack: connectors, soldering, audio/PTT paths, keyfill/interface cabling, bench fixtures, RF tools, and public-safe documentation. It is not trying to present one finished product; it shows the supporting interface and measurement work behind the larger tactical-radio portfolio.
 
 ## Resume Bullets
 
-- Fabricated and modified Motorola, EFJohnson, and related P25 radio-interface cabling, including audio/PTT and accessory-interface paths.
+- Fabricated and modified Motorola, EFJohnson, and related P25 radio-interface cabling, including audio/PTT, keyfill, and accessory-interface paths.
 - Built EFJohnson accessory breakout/test hardware and Motorola XTS/Digirig-style audio/PTT documentation.
 - Used NanoVNA, GNU Radio, HackRF, microscope inspection, and bench wiring to document RF/electronics troubleshooting workflows.
 
@@ -44,7 +44,7 @@ Connector parts, soldering, and closeups show the hands-on interface fabrication
 
 #### Motorola XTS Cable Modifications
 
-This section documents modification of a Motorola XTS serial cable to expose microphone, speaker, and PTT lines while maintaining serial cable functionality.
+This section documents modification of the Motorola HT-1000 connector end of a standard XTS serial programming cable to expose microphone, speaker, and PTT lines while maintaining the original programming-cable workflow. The work required measuring and sourcing the exact push-pin connector style, then hand-aligning the pins during soldering. Manual alignment was enough for research, but a small soldering/alignment jig is the planned improvement for repeatable builds.
 
 <img src="assets/connector-parts-2024-09-13-01.jpg" alt="Motorola XTS cable modification connector parts, 2024-09-13" width="48%"> <img src="assets/connector-parts-2024-09-13-02.jpg" alt="Motorola XTS cable modification connector parts alternate angle, 2024-09-13" width="48%">
 
@@ -56,19 +56,21 @@ This section documents modification of a Motorola XTS serial cable to expose mic
 
 <img src="assets/connector-soldering-2024-09-14-05.jpg" alt="Motorola XTS cable modification completed soldering, 2024-09-14" width="75%">
 
-The interface diagram below captures the audio/PTT endpoint for the same Motorola XTS workflow: a Digirig-style audio lead mapped to radio microphone connector signals for speaker audio, microphone audio, PTT, and ground.
+The interface diagram below captures the audio/PTT endpoint for the same Motorola XTS workflow: a Digirig-style audio lead mapped to radio microphone connector signals for speaker audio, microphone audio, PTT, and ground. Speaker output through the modified connector was checked with an oscilloscope, and PTT behavior was tested with a jumper-wire bench check before treating the interface as usable.
 
 <img src="assets/motorola-xts-digirig-audio-ptt-interface-diagram-2026-05-24-01.jpg" alt="Motorola XTS Digirig audio and PTT interface diagram, 2026-05-24" width="75%">
 
 #### EFJohnson 5300 Interface Cable
 
-This custom interface cable was built for the EFJohnson 5300 series radio using a handmic connector sourced from DigiKey. The public write-up is limited to fabrication, connector inspection, and bench-verification workflow; manufacturer manual pages, proprietary pinout material, key material, and programming details are not reproduced.
+This custom interface cable was built for the EFJohnson 5300 series radio after reviewing the service documentation for the hand-microphone connector, ground, keyfill, and connected-accessory identification behavior. The mating connector and pins were identified and sourced from DigiKey, then a proof-of-concept connector was populated with pins and jumper wires to find the accessory-selection configuration that placed the radio into key-loading mode. The finished cable terminates to a 1/8 TRS end suitable for the open-source KFDtool keyfill-device workflow.
 
 <img src="assets/custom-radio-connector-closeup-2024-09-24-01.jpg" alt="Custom radio connector closeup, 2024-09-24" width="48%"> <img src="assets/custom-radio-connector-closeup-2024-09-24-02.jpg" alt="Custom radio connector closeup alternate angle, 2024-09-24" width="48%">
 
 <img src="assets/custom-radio-interface-cable-2024-09-24-01.jpg" alt="EFJohnson 5300 custom interface cable build, 2024-09-24" width="48%"> <img src="assets/custom-radio-interface-cable-2024-09-24-02.jpg" alt="EFJohnson 5300 custom interface cable completed lead, 2024-09-24" width="48%">
 
 <img src="assets/efjohnson-5300-interface-display-2024-09-24-01.gif" alt="EFJohnson 5300 interface display workflow, 2024-09-24" width="75%">
+
+Validation was based on observable radio behavior and interoperability, not publication of sensitive key material. The radio display updated to `KEYLOADING`, then matching AES-256 test configuration was verified through encrypted voice communication across the EFJohnson, Motorola XTS, and Harris XG-100M platforms. Public documentation intentionally omits keys, key IDs, full pinout reproduction, and protected programming details.
 
 #### EFJohnson 5300 ES Accessory Test Board
 
