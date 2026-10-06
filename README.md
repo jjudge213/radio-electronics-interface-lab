@@ -31,13 +31,9 @@ This repo collects the physical and electrical layer work that supports the radi
 
 ## Project Outcomes
 
-| Area | Status | Public-safe takeaway |
-|---|---|---|
-| Configured | Documented where safe | GNU Radio, NanoVNA/NanoVNA Saver, HackRF, and radio-interface workflows are shown without operational radio programming or protected data. |
-| Fabricated | Documented | Motorola XTS cable modifications, EFJohnson interface cabling, EFJohnson 5300 ES breakout board, antenna fixture work, and manpack hardware concepts are represented. |
-| Tested | Documented | Bench/interface testing, RF sweep observation, NanoVNA antenna checks, and baseband/audio signal workflow screenshots are included as bounded evidence. |
-| Constraint found | Documented | Public writeups avoid manual pages, proprietary pinout tables, radio labels, key material, codeplugs, and sensitive RF details. |
-| Planned next work | Open | Add cleaner bench-check checklists for continuity, audio/PTT verification, strain relief, and RF measurement workflow as public-safe notes. |
+This repo shows the bench and interface work behind the radio projects: connector modification, audio/PTT breakouts, accessory-interface cabling, EFJohnson test-board work, NanoVNA antenna checks, GNU Radio signal workflows, HackRF spectrum observation, and early manpack hardware concepts. The value is the range of physical-layer work, not any single finished product.
+
+The public write-up deliberately avoids manual pages, proprietary pinout tables, radio labels, key material, codeplugs, and sensitive RF details. The next useful additions are short bench-verification notes for continuity, audio/PTT behavior, strain relief, and RF measurement workflow where those can be shown cleanly.
 
 ## Resume Bullets
 
