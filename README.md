@@ -30,10 +30,6 @@ Bench and interface work behind the radio projects: cable modification, audio/PT
 
 The repo shows breadth across the physical radio stack: connectors, soldering, audio/PTT paths, bench fixtures, RF tools, and public-safe documentation. It is not trying to present one finished product; it shows the supporting interface and measurement work behind the larger tactical-radio portfolio.
 
-## Methodology And Obstacles
-
-The work follows a bench-first pattern: inspect the connector, expose only the needed lines, build a reversible test path, then verify with simple tools before treating the interface as usable. Obstacles included unknown or undocumented connector behavior, tight soldering and strain-relief constraints, radio labels or background details that had to be removed from public images, and RF measurements that needed to be described as test-equipment observations rather than overstated performance claims.
-
 ## Resume Bullets
 
 - Fabricated and modified Motorola, EFJohnson, and related P25 radio-interface cabling, including audio/PTT and accessory-interface paths.
